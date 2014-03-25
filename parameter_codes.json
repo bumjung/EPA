@@ -1,0 +1,7847 @@
+[
+    {
+        "CODE": "00010",
+        "PARAMETER NAME": "TEMPERATURE, WATER DEG. CENTIGRADE",
+        "SIMPLE NAME": "TEMPERATURE(C)"
+    },
+    {
+        "CODE": "00011",
+        "PARAMETER NAME": "TEMPERATURE, WATER DEG. FAHRENHEIT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00015",
+        "PARAMETER NAME": "THERMAL DISCHARGE MILLION BTUS PER HR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00016",
+        "PARAMETER NAME": "TEMP. DIFF. BETWEEN SAMP. & UPSTRM DEG.C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00017",
+        "PARAMETER NAME": "THERMAL DISCHARGE MILLION BTUS PER DAY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00018",
+        "PARAMETER NAME": "TEMP. DIFF. BETWEEN SAMP. & UPSTRM DEG.F",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00020",
+        "PARAMETER NAME": "TEMPERATURE, AIR (DEGREES CENTIGRADE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00021",
+        "PARAMETER NAME": "TEMPERATURE, AIR (DEGREES FAHRENHEIT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00036",
+        "PARAMETER NAME": "WIND DIRECTION (DEG FROM TRUE N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00056",
+        "PARAMETER NAME": "FLOW RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00058",
+        "PARAMETER NAME": "FLOW RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00059",
+        "PARAMETER NAME": "FLOW RATE, INSTANTANEOUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00060",
+        "PARAMETER NAME": "STREAM FLOW, MEAN.DAILY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00061",
+        "PARAMETER NAME": "STREAM FLOW, INSTANTANEOUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00065",
+        "PARAMETER NAME": "STAGE, STREAM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00067",
+        "PARAMETER NAME": "TIDE STAGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00070",
+        "PARAMETER NAME": "TURBIDITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00075",
+        "PARAMETER NAME": "TURBIDITY,HELLIGE (SILICON DIOXIDE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00076",
+        "PARAMETER NAME": "TURBIDITY, HCH TURBIDIMITER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00077",
+        "PARAMETER NAME": "TRANSPARENCY, SECCHI DISC (INCHES)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00080",
+        "PARAMETER NAME": "COLOR (PT-CO UNITS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00081",
+        "PARAMETER NAME": "COLOR, APPARENT (UNFILTERED SAMPLE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00082",
+        "PARAMETER NAME": "COLOR, SPECTROPHOTO, WTR SMPL AT 7.6 PH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00083",
+        "PARAMETER NAME": "COLOR, SPECTROPHOTO-METRIC FILTER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00084",
+        "PARAMETER NAME": "COLOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00085",
+        "PARAMETER NAME": "ODOR (THRESHOLD NO. AT ROOM TEMPERATURE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00091",
+        "PARAMETER NAME": "FLOW, MINIMUM FLOW RANGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00092",
+        "PARAMETER NAME": "FLOW, MAXIMUM FLOW RANGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00094",
+        "PARAMETER NAME": "CONDUCTIVITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00095",
+        "PARAMETER NAME": "SPECIFIC CONDUCTANCE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00135",
+        "PARAMETER NAME": "RAINFALL DURATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00139",
+        "PARAMETER NAME": "HYDROGEN PEROXIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00140",
+        "PARAMETER NAME": "BOD, 5-DAY(20 DEG.C)PER PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00141",
+        "PARAMETER NAME": "SOLIDS, TOTAL SUSP PER PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00144",
+        "PARAMETER NAME": "COMBINED METALS SUM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00145",
+        "PARAMETER NAME": "TOTAL PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00146",
+        "PARAMETER NAME": "CHEM. OXYGEN DEMAND PER PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00148",
+        "PARAMETER NAME": "HERBICIDES, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00150",
+        "PARAMETER NAME": "SOLIDS, TOTAL SUSP. PER CFS OF STREAMFLW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00151",
+        "PARAMETER NAME": "NITROGEN, AMMONIA PER CFS OF STREAMFLW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00152",
+        "PARAMETER NAME": "OIL AND GREASE PER PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00154",
+        "PARAMETER NAME": "SULFATE (AS S)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00157",
+        "PARAMETER NAME": "SOLIDS,TOT. VOLATILE PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00163",
+        "PARAMETER NAME": "SOLIDS, TOTAL SUSP. PER BATCH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00164",
+        "PARAMETER NAME": "FLOW, GALLONS/BATCH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00165",
+        "PARAMETER NAME": "SLUDGE VOLUME INDEX (SVI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00166",
+        "PARAMETER NAME": "CHLORIDE, PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00168",
+        "PARAMETER NAME": "PRODUCTION, TOTAL, MEGAWATTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00170",
+        "PARAMETER NAME": "SOLIDS,DRY,REMOVEDFROM SOL.HANDLING SYS.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00171",
+        "PARAMETER NAME": "SEPTAGE DISCHARGED TO TREATMENT FAC.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00175",
+        "PARAMETER NAME": "NITROGEN, AMMONIA, PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00177",
+        "PARAMETER NAME": "OXYGEN DEMAND, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00178",
+        "PARAMETER NAME": "NICOTINE SULFATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00179",
+        "PARAMETER NAME": "WASTE HEAT REJECTION RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00180",
+        "PARAMETER NAME": "PLANT CAPACITY FACT. PERCENT OF CAPACITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00181",
+        "PARAMETER NAME": "OXYGEN DEMAND, ULTIMATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00184",
+        "PARAMETER NAME": "COAGULANTS ADDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00186",
+        "PARAMETER NAME": "PARTICULATES, FLOAT-ING, DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00187",
+        "PARAMETER NAME": "TOXICITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00188",
+        "PARAMETER NAME": "CHLORINATED PESTICIDES, TOT & PCB'S",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00189",
+        "PARAMETER NAME": "RADIOACTIVITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00192",
+        "PARAMETER NAME": "OXYGEN DEMAND, ULT. CARBONACEOUS (UCOD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00208",
+        "PARAMETER NAME": "CHLORINE, TOTAL RESIDUAL (DSG. TIME)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00300",
+        "PARAMETER NAME": "OXYGEN, DISSOLVED (DO)",
+        "SIMPLE NAME": "DISSOLVEDOXYGEN(DO)"
+    },
+    {
+        "CODE": "00301",
+        "PARAMETER NAME": "OXYGEN, DISSOLVED PERCENT SATURATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00310",
+        "PARAMETER NAME": "BOD, 5-DAY (20 DEG. C)",
+        "SIMPLE NAME": "BOD, 5-DAY(20C)"
+    },
+    {
+        "CODE": "00311",
+        "PARAMETER NAME": "BOD, 5-DAY DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00314",
+        "PARAMETER NAME": "BOD, NITROG INHIB 5-DAY (20 DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00318",
+        "PARAMETER NAME": "BOD, 5-DAY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00319",
+        "PARAMETER NAME": "BOD (ULT. ALL STAGES)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00320",
+        "PARAMETER NAME": "BOD (ULT. 1ST STAGE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00324",
+        "PARAMETER NAME": "BOD, 20-DAY (20 DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00335",
+        "PARAMETER NAME": "OXYGEN DEMAND, CHEM. (LOW LEVEL) (COD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00340",
+        "PARAMETER NAME": "OXYGEN DEMAND, CHEM. (HIGH LEVEL) (COD)",
+        "SIMPLE NAME": "COD"
+    },
+    {
+        "CODE": "00341",
+        "PARAMETER NAME": "OXYGEN DEMAND, CHEM. (COD), DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00343",
+        "PARAMETER NAME": "OXYGEN DEMAND, TOTAL (TOD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00352",
+        "PARAMETER NAME": "BOD 35-DAY (20 DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00370",
+        "PARAMETER NAME": "CHLORINE DEMAND,1 HR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00387",
+        "PARAMETER NAME": "OZONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00388",
+        "PARAMETER NAME": "OXYGEN DEMAND, SUM PRODUCT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00400",
+        "PARAMETER NAME": "PH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00403",
+        "PARAMETER NAME": "PH, LAB",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00404",
+        "PARAMETER NAME": "NON-IONIC DISPERSANT (NALSPERSE 7348)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00405",
+        "PARAMETER NAME": "CARBON DIOXIDE (AS CO2)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00410",
+        "PARAMETER NAME": "ALKALINITY, TOTAL (AS CACO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00415",
+        "PARAMETER NAME": "ALKALINITY, PHENOLPHTHALINE METHOD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00425",
+        "PARAMETER NAME": "ALKALINITY, BICARBO-NATE (AS CACO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00430",
+        "PARAMETER NAME": "ALKALINITY, CARBO- NATE (AS CACO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00435",
+        "PARAMETER NAME": "ACIDITY, TOTAL (AS CACO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00440",
+        "PARAMETER NAME": "BICARBONATE ION- (AS HCO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00442",
+        "PARAMETER NAME": "PHOSPHOROUS, TOTAL ELEMENTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00445",
+        "PARAMETER NAME": "CARBONATE ION- (AS CO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00480",
+        "PARAMETER NAME": "SALINITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00500",
+        "PARAMETER NAME": "SOLIDS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00505",
+        "PARAMETER NAME": "SOLIDS, TOTAL VOLATILE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00510",
+        "PARAMETER NAME": "SOLIDS, TOTAL FIXED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00515",
+        "PARAMETER NAME": "RESIDUE, TOT FLTRBLE (DRIED AT 105C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00520",
+        "PARAMETER NAME": "SOLIDS, VOLATILE DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00525",
+        "PARAMETER NAME": "SOLIDS, FIXED DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00530",
+        "PARAMETER NAME": "SOLIDS, TOTAL SUSPENDED",
+        "SIMPLE NAME": "TOTALSUSPENDEDSOLIDS"
+    },
+    {
+        "CODE": "00535",
+        "PARAMETER NAME": "SOLIDS, VOLATILE SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00540",
+        "PARAMETER NAME": "SOLIDS, FIXED SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00545",
+        "PARAMETER NAME": "SOLIDS, SETTLEABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00550",
+        "PARAMETER NAME": "OIL AND GREASE (SOXHLET EXTR.) TOT.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00551",
+        "PARAMETER NAME": "HYDROCARBONS,IN H2O,IR,CC14 EXT. CHROMAT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00552",
+        "PARAMETER NAME": "OIL AND GREASE, HEXANE EXTR METHOD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00555",
+        "PARAMETER NAME": "OIL AND GREASE, PER 1000 GALLONS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00556",
+        "PARAMETER NAME": "OIL AND GREASE FREON EXTR-GRAV METH",
+        "SIMPLE NAME": "OILANDGREASE"
+    },
+    {
+        "CODE": "00558",
+        "PARAMETER NAME": "OIL & GREASE % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00560",
+        "PARAMETER NAME": "OIL & GREASE (FREON EXTR.-IR METH)TOT,RC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00600",
+        "PARAMETER NAME": "NITROGEN, TOTAL (AS N)",
+        "SIMPLE NAME": "TOTALNITROGEN(ASN)"
+    },
+    {
+        "CODE": "00605",
+        "PARAMETER NAME": "NITROGEN, ORGANIC TOTAL (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00607",
+        "PARAMETER NAME": "NITROGEN, ORGANIC, DISSOLVED (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00608",
+        "PARAMETER NAME": "NITROGEN, AMMONIA DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00610",
+        "PARAMETER NAME": "NITROGEN, AMMONIA TOTAL (AS N)",
+        "SIMPLE NAME": "AMMONIA(ASN)"
+    },
+    {
+        "CODE": "00611",
+        "PARAMETER NAME": "NITROGEN, AMMONIA IN BOTTOM DEPOSITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00612",
+        "PARAMETER NAME": "NITROGEN, AMMONIA, TOT UNIONIZED (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00613",
+        "PARAMETER NAME": "NITRITE NITROGEN, DISSOLVED (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00615",
+        "PARAMETER NAME": "NITROGEN, NITRITE TOTAL (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00618",
+        "PARAMETER NAME": "NITROGEN, NITRATE DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00619",
+        "PARAMETER NAME": "AMMONIA, UNIONIZED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00620",
+        "PARAMETER NAME": "NITROGEN, NITRATE TOTAL (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00623",
+        "PARAMETER NAME": "NITROGEN, KJELDAHL DISSOLVED (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00625",
+        "PARAMETER NAME": "NITROGEN, KJELDAHL TOTAL (AS N)",
+        "SIMPLE NAME": "TOTALKJELDAHLNITROGEN(ASN)"
+    },
+    {
+        "CODE": "00630",
+        "PARAMETER NAME": "NITRITE PLUS NITRATE TOTAL 1 DET. (AS N)",
+        "SIMPLE NAME": "NITRITEPLUSNITRATE(ASN)"
+    },
+    {
+        "CODE": "00631",
+        "PARAMETER NAME": "NITRITE PLUS NITRATE DISSOLVED 1 DET.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00637",
+        "PARAMETER NAME": "DITHIOCARBAMATE, RPTD AS DITHIOCARBONATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00640",
+        "PARAMETER NAME": "NITROGEN,INORGANIC TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00650",
+        "PARAMETER NAME": "PHOSPHATE, TOTAL (AS PO4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00653",
+        "PARAMETER NAME": "PHOSPHATE TOTAL SOLUBLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00660",
+        "PARAMETER NAME": "PHOSPHATE, ORTHO (AS PO4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00662",
+        "PARAMETER NAME": "PHOSPHOROUS, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00665",
+        "PARAMETER NAME": "PHOSPHORUS, TOTAL (AS P)",
+        "SIMPLE NAME": "TOTALPHOSPHORUS(ASP)"
+    },
+    {
+        "CODE": "00666",
+        "PARAMETER NAME": "PHOSPHORUS, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00668",
+        "PARAMETER NAME": "PHOSPHOROUS, TOTAL, IN BOTTOM DEPOSITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00670",
+        "PARAMETER NAME": "PHOSPHOROUS, TOTAL ORGANIC (AS P)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00671",
+        "PARAMETER NAME": "PHOSPHATE,DISSOLVED/ORTHOPHOSPHATE(AS P)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00679",
+        "PARAMETER NAME": "CARBON, TOT ORGANIC (TOC) PER 1000 GALS.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00680",
+        "PARAMETER NAME": "CARBON, TOT ORGANIC (TOC)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00681",
+        "PARAMETER NAME": "CARBON, DISSOLVED ORGANIC (AS C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00690",
+        "PARAMETER NAME": "CARBON, TOTAL (AS C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00695",
+        "PARAMETER NAME": "NITRILOTRIACETIC ACID (NTA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00696",
+        "PARAMETER NAME": "NITROFURANS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00697",
+        "PARAMETER NAME": "ACETIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00698",
+        "PARAMETER NAME": "BORIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00700",
+        "PARAMETER NAME": "ACIDS,TOTAL VOLATILE (AS ACETIC ACID)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00718",
+        "PARAMETER NAME": "CYANIDE, WEAK ACID, DISSOCIABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00719",
+        "PARAMETER NAME": "CYANIDE, FREE-WATER PLUS WASTEWATERS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00720",
+        "PARAMETER NAME": "CYANIDE, TOTAL (AS CN)",
+        "SIMPLE NAME": "TOTALCYANIDE(ASCN)"
+    },
+    {
+        "CODE": "00722",
+        "PARAMETER NAME": "CYANIDE,FREE (AMEN. TO CHLORINATION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00723",
+        "PARAMETER NAME": "CYANIDE,DISSOLVED STD METHOD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00725",
+        "PARAMETER NAME": "CYANATE(AS OCN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00728",
+        "PARAMETER NAME": "SODIUM NITRITE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00730",
+        "PARAMETER NAME": "THIOCYANATE (AS SCN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00740",
+        "PARAMETER NAME": "SULFITE (AS SO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00741",
+        "PARAMETER NAME": "SULFITE (AS S)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00745",
+        "PARAMETER NAME": "SULFIDE, TOTAL (AS S)",
+        "SIMPLE NAME": "TOTALSULFIDE(ASS)"
+    },
+    {
+        "CODE": "00746",
+        "PARAMETER NAME": "SULFIDE, DISSOLVED, (AS S)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00900",
+        "PARAMETER NAME": "HARDNESS, TOTAL (AS CACO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00915",
+        "PARAMETER NAME": "CALCIUM, DISSOLVED (AS CA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00916",
+        "PARAMETER NAME": "CALCIUM, TOTAL (AS CA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00917",
+        "PARAMETER NAME": "CALCIUM IN BOTTOM DEPOSITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00918",
+        "PARAMETER NAME": "CALCIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00921",
+        "PARAMETER NAME": "MAGNESIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00923",
+        "PARAMETER NAME": "SODIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00924",
+        "PARAMETER NAME": "MAGNESIUM, IN BOTTOM DEPOSITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00925",
+        "PARAMETER NAME": "MAGNESIUM, DISSOLVED (AS MG)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00927",
+        "PARAMETER NAME": "MAGNESIUM, TOTAL (AS MG)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00929",
+        "PARAMETER NAME": "SODIUM, TOTAL (AS NA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00930",
+        "PARAMETER NAME": "SODIUM, DISSOLVED (AS NA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00931",
+        "PARAMETER NAME": "SODIUM ADSORPTION RATIO",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00932",
+        "PARAMETER NAME": "SODIUM, %",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00934",
+        "PARAMETER NAME": "SODIUM IN BOTTOM DEP (AS NA) (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00935",
+        "PARAMETER NAME": "POTASSIUM, DISSOLVED (AS K)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00937",
+        "PARAMETER NAME": "POTASSIUM, TOTAL (AS K)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00938",
+        "PARAMETER NAME": "POTASSIUM, IN BOTTOM DEPOSITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00940",
+        "PARAMETER NAME": "CHLORIDE (AS CL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00941",
+        "PARAMETER NAME": "CHLORIDE, DISSOLVED IN WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00942",
+        "PARAMETER NAME": "CHLORIDE, SLUDGE, TOTAL DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00945",
+        "PARAMETER NAME": "SULFATE, TOTAL (AS SO4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00946",
+        "PARAMETER NAME": "SULFATE, DISSOLVED (AS SO4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00948",
+        "PARAMETER NAME": "ASBESTOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00949",
+        "PARAMETER NAME": "FLUORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00950",
+        "PARAMETER NAME": "FLUORIDE, DISSOLVED (AS F)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00951",
+        "PARAMETER NAME": "FLUORIDE, TOTAL (AS F)",
+        "SIMPLE NAME": "TOTALFLUORIDE(ASF)"
+    },
+    {
+        "CODE": "00952",
+        "PARAMETER NAME": "FLUOROBORATES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00956",
+        "PARAMETER NAME": "SILICA, TOTAL (AS SIO2)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00973",
+        "PARAMETER NAME": "ASBESTOS, TOTAL AMPHIBOLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00978",
+        "PARAMETER NAME": "ARSENIC, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00979",
+        "PARAMETER NAME": "COBALT, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00980",
+        "PARAMETER NAME": "IRON TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00981",
+        "PARAMETER NAME": "SELENIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00982",
+        "PARAMETER NAME": "THALLIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00983",
+        "PARAMETER NAME": "TIN, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00984",
+        "PARAMETER NAME": "TITANIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00986",
+        "PARAMETER NAME": "YTTRIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00987",
+        "PARAMETER NAME": "IRON AND MANGANESE -TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00988",
+        "PARAMETER NAME": "IRON AND MANGANESE -SOLUBLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00998",
+        "PARAMETER NAME": "BERYLLIUM, TOTAL RECOVERABLE (AS BE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "00999",
+        "PARAMETER NAME": "BORON, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01000",
+        "PARAMETER NAME": "ARSENIC, DISSOLVED (AS AS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01002",
+        "PARAMETER NAME": "ARSENIC, TOTAL (AS AS)",
+        "SIMPLE NAME": "TOTALARSENIC(ASAS)"
+    },
+    {
+        "CODE": "01003",
+        "PARAMETER NAME": "ARSENIC IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01005",
+        "PARAMETER NAME": "BARIUM, DISSOLVED (AS BA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01007",
+        "PARAMETER NAME": "BARIUM, TOTAL (AS BA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01009",
+        "PARAMETER NAME": "BARIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01010",
+        "PARAMETER NAME": "BERYLLIUM, DISSOLVED (AS BE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01012",
+        "PARAMETER NAME": "BERYLLIUM, TOTAL (AS BE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01013",
+        "PARAMETER NAME": "BERYLLIUM IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01017",
+        "PARAMETER NAME": "BISMUTH, TOTAL (AS BI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01020",
+        "PARAMETER NAME": "BORON, DISSOLVED (AS B)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01022",
+        "PARAMETER NAME": "BORON, TOTAL (AS B)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01024",
+        "PARAMETER NAME": "CHROMIUM, TOTAL IN BOT DEP (WET WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01025",
+        "PARAMETER NAME": "CADMIUM, DISSOLVED (AS CD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01027",
+        "PARAMETER NAME": "CADMIUM, TOTAL (AS CD)",
+        "SIMPLE NAME": "TOTALCADMIUM(ASCD)"
+    },
+    {
+        "CODE": "01028",
+        "PARAMETER NAME": "CADMIUM IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01029",
+        "PARAMETER NAME": "CHROMIUM, TOTAL DRY WEIGHT (AS CR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01030",
+        "PARAMETER NAME": "CHROMIUM, DISSOLVED (AS CR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01032",
+        "PARAMETER NAME": "CHROMIUM, HEXAVALENT (AS CR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01033",
+        "PARAMETER NAME": "CHROMIUM, TRIVALENT (AS CR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01034",
+        "PARAMETER NAME": "CHROMIUM, TOTAL (AS CR)",
+        "SIMPLE NAME": "TOTALCHROMIUM(ASCR)"
+    },
+    {
+        "CODE": "01035",
+        "PARAMETER NAME": "COBALT, DISSOLVED (AS CO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01037",
+        "PARAMETER NAME": "COBALT, TOTAL (AS CO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01040",
+        "PARAMETER NAME": "COPPER, DISSOLVED (AS CU)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01042",
+        "PARAMETER NAME": "COPPER, TOTAL (AS CU)",
+        "SIMPLE NAME": "TOTALCOPPER(ASCU)"
+    },
+    {
+        "CODE": "01043",
+        "PARAMETER NAME": "COPPER IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01044",
+        "PARAMETER NAME": "IRON, SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01045",
+        "PARAMETER NAME": "IRON, TOTAL (AS FE)",
+        "SIMPLE NAME": "TOTALIRON(ASFE)"
+    },
+    {
+        "CODE": "01046",
+        "PARAMETER NAME": "IRON, DISSOLVED (AS FE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01047",
+        "PARAMETER NAME": "IRON, FERROUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01049",
+        "PARAMETER NAME": "LEAD, DISSOLVED (AS PB)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01051",
+        "PARAMETER NAME": "LEAD, TOTAL (AS PB)",
+        "SIMPLE NAME": "TOTALLEAD(ASPB)"
+    },
+    {
+        "CODE": "01052",
+        "PARAMETER NAME": "LEAD, TOTAL DRY WEIGHT (AS PB)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01053",
+        "PARAMETER NAME": "MANGANESE IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01054",
+        "PARAMETER NAME": "MANGANESE, SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01055",
+        "PARAMETER NAME": "MANGANESE, TOTAL (AS MN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01056",
+        "PARAMETER NAME": "MANGANESE, DISSOLVED (AS MN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01057",
+        "PARAMETER NAME": "THALLIUM, DISSOLVED (AS TL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01059",
+        "PARAMETER NAME": "THALLIUM, TOTAL (AS TL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01060",
+        "PARAMETER NAME": "MOLYBDENUM DISSOLVED (AS MO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01062",
+        "PARAMETER NAME": "MOLYBDENUM, TOTAL (AS MO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01064",
+        "PARAMETER NAME": "TELLURIUM, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01065",
+        "PARAMETER NAME": "NICKEL, DISSOLVED (AS NI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01066",
+        "PARAMETER NAME": "NICKEL, SUSPENDED (AS NI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01067",
+        "PARAMETER NAME": "NICKEL, TOTAL (AS NI)",
+        "SIMPLE NAME": "TOTALNICKEL(ASNI)"
+    },
+    {
+        "CODE": "01068",
+        "PARAMETER NAME": "NICKEL,TOT IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01074",
+        "PARAMETER NAME": "NICKEL TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01075",
+        "PARAMETER NAME": "SILVER, DISSOLVED (AS AG)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01077",
+        "PARAMETER NAME": "SILVER, TOTAL (AS AG)",
+        "SIMPLE NAME": "TOTALSILVER(ASAG)"
+    },
+    {
+        "CODE": "01078",
+        "PARAMETER NAME": "SILVER IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01079",
+        "PARAMETER NAME": "SILVER TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01080",
+        "PARAMETER NAME": "STRONTIUM, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01082",
+        "PARAMETER NAME": "STRONTIUM,TOTAL (AS SR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01085",
+        "PARAMETER NAME": "VANADIUM, DISSOLVED (AS V)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01087",
+        "PARAMETER NAME": "VANADIUM, TOTAL (AS V)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01090",
+        "PARAMETER NAME": "ZINC, DISSOLVED (AS ZN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01092",
+        "PARAMETER NAME": "ZINC, TOTAL (AS ZN)",
+        "SIMPLE NAME": "TOTALZINC(ASZN)"
+    },
+    {
+        "CODE": "01093",
+        "PARAMETER NAME": "ZINC IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01094",
+        "PARAMETER NAME": "ZINC TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01095",
+        "PARAMETER NAME": "ANTIMONY, DISSOLVED (AS SB)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01097",
+        "PARAMETER NAME": "ANTIMONY, TOTAL (AS SB)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01098",
+        "PARAMETER NAME": "ANTIMONY IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01100",
+        "PARAMETER NAME": "TIN, DISSOLVED (AS SN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01102",
+        "PARAMETER NAME": "TIN, TOTAL (AS SN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01104",
+        "PARAMETER NAME": "ALUMINUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01105",
+        "PARAMETER NAME": "ALUMINUM, TOTAL (AS AL)",
+        "SIMPLE NAME": "TOTALALUMINUM(ASAL)"
+    },
+    {
+        "CODE": "01106",
+        "PARAMETER NAME": "ALUMINUM, DISSOLVED (AS AL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01109",
+        "PARAMETER NAME": "ALUMINUM, IONIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01113",
+        "PARAMETER NAME": "CADMIUM TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01114",
+        "PARAMETER NAME": "LEAD TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01117",
+        "PARAMETER NAME": "CESIUM,TOTAL (AS CS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01118",
+        "PARAMETER NAME": "CHROMIUM TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01119",
+        "PARAMETER NAME": "COPPER TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01128",
+        "PARAMETER NAME": "VANADIUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01129",
+        "PARAMETER NAME": "MOLYBDENUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01130",
+        "PARAMETER NAME": "LITHIUM, DISSOLVED (AS LI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01132",
+        "PARAMETER NAME": "LITHIUM, TOTAL (AS LI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01137",
+        "PARAMETER NAME": "RUBIDIUM,TOTAL (AS RB)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01139",
+        "PARAMETER NAME": "COLUMBIUM, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01142",
+        "PARAMETER NAME": "SILICON, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01145",
+        "PARAMETER NAME": "SELENIUM, DISSOLVED (AS SE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01147",
+        "PARAMETER NAME": "SELENIUM, TOTAL (AS SE)",
+        "SIMPLE NAME": "TOTALSELENIUM(ASSE)"
+    },
+    {
+        "CODE": "01148",
+        "PARAMETER NAME": "SELENIUM IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01152",
+        "PARAMETER NAME": "TITANIUM, TOTAL (AS TI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01154",
+        "PARAMETER NAME": "TUNGSTEN, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01162",
+        "PARAMETER NAME": "ZIRCONIUM,TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01167",
+        "PARAMETER NAME": "SELENIUM, ACID SOLUBLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01168",
+        "PARAMETER NAME": "INDIUM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01171",
+        "PARAMETER NAME": "PLATINUM, TOTAL (AS PT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01182",
+        "PARAMETER NAME": "LANTHANUM, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01210",
+        "PARAMETER NAME": "PALLADIUM, TOTAL (AS PD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01220",
+        "PARAMETER NAME": "CHROMIUM, HEXAVALENT DISSOLVED (AS CR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01252",
+        "PARAMETER NAME": "ARSENIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01257",
+        "PARAMETER NAME": "CYANIDE (A)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01266",
+        "PARAMETER NAME": "PRESSURE AS PERTAINING TO WELLS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01268",
+        "PARAMETER NAME": "ANTIMONY, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01273",
+        "PARAMETER NAME": "TOTAL ACID PRIORITY POLLUTANTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01274",
+        "PARAMETER NAME": "TOTAL BASE/NEUTRAL PRIORITY POLLUTANTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01275",
+        "PARAMETER NAME": "TOTAL VOLATILE POLLUTANTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01276",
+        "PARAMETER NAME": "TOTAL AGG CONCENTRATION #4",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01277",
+        "PARAMETER NAME": "TOTAL AGG CONCENTRATION #1",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01278",
+        "PARAMETER NAME": "TOTAL AGG CONCENTRATION #2",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01279",
+        "PARAMETER NAME": "TOTAL AGG CONCENTRATION #3",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01280",
+        "PARAMETER NAME": "TOTAL AGG CONCENTRATION #5",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01282",
+        "PARAMETER NAME": "TOTAL AGG CONCENTRATION #7",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01284",
+        "PARAMETER NAME": "APPLICATION DAILY SPRAY IRRIGATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01285",
+        "PARAMETER NAME": "APPLICATION MONTHLY SPRAY IRRIGATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01286",
+        "PARAMETER NAME": "APPLICATION PERIOD SPRAY IRRIGATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01287",
+        "PARAMETER NAME": "APPLICATION WEEKLY SPRAY IRRIGATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01288",
+        "PARAMETER NAME": "FOAMING AGENTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01289",
+        "PARAMETER NAME": "BIOCIDES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01290",
+        "PARAMETER NAME": "COLOR (ADMI UNITS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01298",
+        "PARAMETER NAME": "NITROGEN-NITRITE IN WATER, (PCT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01299",
+        "PARAMETER NAME": "NITROGEN-NITRATE IN WATER, (PCT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01300",
+        "PARAMETER NAME": "OIL & GREASE SEVERITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01302",
+        "PARAMETER NAME": "BAYER 73 LAMPREYCIDE IN WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01303",
+        "PARAMETER NAME": "ZINC, POTENTIALLY DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01304",
+        "PARAMETER NAME": "SILVER, POTENTIALLY DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01306",
+        "PARAMETER NAME": "COPPER, POTENTIALLY DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01307",
+        "PARAMETER NAME": "CHROMIUM, HEXAVALENT POTENTIALLY DISOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01308",
+        "PARAMETER NAME": "ALUMINUM, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01309",
+        "PARAMETER NAME": "ARSENIC, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01313",
+        "PARAMETER NAME": "CADMIUM, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01314",
+        "PARAMETER NAME": "CHROMIUM, TRIVALENT,POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01316",
+        "PARAMETER NAME": "SLUDGE BUILD-UP IN WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01317",
+        "PARAMETER NAME": "IRON, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01318",
+        "PARAMETER NAME": "LEAD, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01319",
+        "PARAMETER NAME": "MANGANESE, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01321",
+        "PARAMETER NAME": "MERCURY, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01322",
+        "PARAMETER NAME": "NICKEL, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01323",
+        "PARAMETER NAME": "SELENIUM, POTENTIALLY DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01326",
+        "PARAMETER NAME": "URANIUM, POTENTIALLY DISSOLVD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01330",
+        "PARAMETER NAME": "ODOR, ATMOSPHERIC (SEVERITY)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01345",
+        "PARAMETER NAME": "DEBRIS, FLOATING (SEVERITY)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01350",
+        "PARAMETER NAME": "TURBIDITY (SEVERITY)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01351",
+        "PARAMETER NAME": "STREAM FLOW (SEVERITY)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01352",
+        "PARAMETER NAME": "DISCHARGE FLOW AS % OF STREAM FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01501",
+        "PARAMETER NAME": "ALPHA, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01503",
+        "PARAMETER NAME": "ALPHA, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "01505",
+        "PARAMETER NAME": "ALPHA, SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03501",
+        "PARAMETER NAME": "BETA, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03503",
+        "PARAMETER NAME": "BETA, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03505",
+        "PARAMETER NAME": "BETA, SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03520",
+        "PARAMETER NAME": "RADIATION, GROSS BETA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03556",
+        "PARAMETER NAME": "2,3,7,8 TETRACHLORODIBENZO-P-DIOXIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03582",
+        "PARAMETER NAME": "OIL AND GREASE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03593",
+        "PARAMETER NAME": "TOXICS, PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03594",
+        "PARAMETER NAME": "HALOGENS, ADSORBABLE ORGANIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03598",
+        "PARAMETER NAME": "TOXICITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03599",
+        "PARAMETER NAME": "TOXICITY, CHOICE OF SPECIES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03601",
+        "PARAMETER NAME": "TOXICITY, SAND DOLLAR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03603",
+        "PARAMETER NAME": "TOTAL SUSPENDABLE SOLIDS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03604",
+        "PARAMETER NAME": "TOTAL PHENOLS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03605",
+        "PARAMETER NAME": "FLOW METER CALIBRATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03607",
+        "PARAMETER NAME": "STICKWATER, EFFLUENT PERCENT RECYCLED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03608",
+        "PARAMETER NAME": "STICKWATER, EFFLUENT VOLUME RECYCLED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03609",
+        "PARAMETER NAME": "PRODUCTION, SEAFOOD EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03610",
+        "PARAMETER NAME": "DIOXIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03612",
+        "PARAMETER NAME": "PARA-DICHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03613",
+        "PARAMETER NAME": "SOLIDS, TOTAL DISSOLVED, TOTAL TONS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03614",
+        "PARAMETER NAME": "2,4,5-TRICHLOROPHENOXYPROPIONIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03615",
+        "PARAMETER NAME": "2-METHYL-4,6-DINITROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03768",
+        "PARAMETER NAME": "PURGEABLE HYDROCARBONS, METH. 601",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03771",
+        "PARAMETER NAME": "PURGEABLE AROMATICS METHOD 602",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03772",
+        "PARAMETER NAME": "TEMP. DIFF. BETWEEN UP/DOWN STREAM DEG.F",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03777",
+        "PARAMETER NAME": "DICHLOROPROPYLENE, 1,2",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03820",
+        "PARAMETER NAME": "HUMAN ENTERIC VIRUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03821",
+        "PARAMETER NAME": "DICHLOROMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03823",
+        "PARAMETER NAME": "HYDRAZINES, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03824",
+        "PARAMETER NAME": "TRIBUTYLTIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "03980",
+        "PARAMETER NAME": "4-ISOPROPYLTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04160",
+        "PARAMETER NAME": "HALOCARBONS, PURGEABLE SCAN, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04162",
+        "PARAMETER NAME": "AROMATIC, PURGEABLE SCAN, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04166",
+        "PARAMETER NAME": "PCB, TOTAL, SCAN EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04175",
+        "PARAMETER NAME": "PHOSPHATE, ORTHO (AS P)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04223",
+        "PARAMETER NAME": "TRO-DISCHARGE TIME",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04224",
+        "PARAMETER NAME": "DICYCLOHEXYLAMINE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04240",
+        "PARAMETER NAME": "ACETOCHLOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04251",
+        "PARAMETER NAME": "CLAMTROL CT-1, TOTAL WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04262",
+        "PARAMETER NAME": "CHROMIUM, TRIVALENT TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04278",
+        "PARAMETER NAME": "SEAFOOD PRODUCTION, EFFLUENT # DAY/MO",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04280",
+        "PARAMETER NAME": "BISAZER, TOTAL, WATER, UG/L",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04370",
+        "PARAMETER NAME": "SUM BOD AND AMMONIA,WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "04383",
+        "PARAMETER NAME": "THERMAL EFFICIENCY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "05501",
+        "PARAMETER NAME": "GAMMA, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "09501",
+        "PARAMETER NAME": "RADIUM 226, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "09503",
+        "PARAMETER NAME": "RADIUM 226, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "11123",
+        "PARAMETER NAME": "MANGANESE, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "11500",
+        "PARAMETER NAME": "RADIUM 226 & 228, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "11501",
+        "PARAMETER NAME": "RADIUM 228, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "11503",
+        "PARAMETER NAME": "RADIUM 226 + RADIUM 228, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "13501",
+        "PARAMETER NAME": "STRONTIUM 90, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "17501",
+        "PARAMETER NAME": "LEAD 210, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "19501",
+        "PARAMETER NAME": "POLONIUM 210",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "20501",
+        "PARAMETER NAME": "RADIUM 223, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22409",
+        "PARAMETER NAME": "OCTACHLOROSTYRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22410",
+        "PARAMETER NAME": "TRIS (2,3-DIBROMOPROPYL) PHOSPHATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22414",
+        "PARAMETER NAME": "WHOLE EFFLUENT TOXICITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22417",
+        "PARAMETER NAME": "METHYL TERT-BUTYL ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22454",
+        "PARAMETER NAME": "METHOXYPROPYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22456",
+        "PARAMETER NAME": "POLYNUC AROMATIC HC PER METHOD 610",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22501",
+        "PARAMETER NAME": "THORIUM 232",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22703",
+        "PARAMETER NAME": "URANIUM, NATURAL, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22706",
+        "PARAMETER NAME": "URANIUM, TOTAL AS U308",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "22708",
+        "PARAMETER NAME": "URANIUM, NATURAL, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "24501",
+        "PARAMETER NAME": "RADIUM 224, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "25501",
+        "PARAMETER NAME": "ACTINIUM 227",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "26501",
+        "PARAMETER NAME": "THORIUM 230",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "28012",
+        "PARAMETER NAME": "URANIUM, NATURAL, TOTAL (IN PCI/L)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "29405",
+        "PARAMETER NAME": "CHROMIUM, HEXAVALENT IN BOT DEP (DRY WT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30004",
+        "PARAMETER NAME": "FENSULFOTHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30006",
+        "PARAMETER NAME": "FENTHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30009",
+        "PARAMETER NAME": "MERPHOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30190",
+        "PARAMETER NAME": "DICHLOROPROP (2,4-DP)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30191",
+        "PARAMETER NAME": "DINOSEB",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30192",
+        "PARAMETER NAME": "MCPA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30193",
+        "PARAMETER NAME": "MCPP",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30218",
+        "PARAMETER NAME": "DICHLORVOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30234",
+        "PARAMETER NAME": "TERBACIL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30264",
+        "PARAMETER NAME": "HEXAZIMONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30311",
+        "PARAMETER NAME": "BROMACIL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30362",
+        "PARAMETER NAME": "TETRACHLORDIBENZOFURAN,2378-(TCDF) SED,",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30383",
+        "PARAMETER NAME": "BENZENE,ETHYLBENZENETOLUENE,XYLENE COMBN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30391",
+        "PARAMETER NAME": "CHLOROSYRINGEALDEHYDE, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "30500",
+        "PARAMETER NAME": "COLIFORM, FECAL - % SAMPLE EXCEEDS LIMIT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31501",
+        "PARAMETER NAME": "COLIFORM, TOTAL MF, IMMED,M-ENDO MED 35C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31504",
+        "PARAMETER NAME": "COLIFORM, TOTAL MF, IMMED,LES ENDO AGAR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31505",
+        "PARAMETER NAME": "COLIFORM, TOT, MPN, COMPLETED, (100 ML)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31613",
+        "PARAMETER NAME": "COLIFORM, FECAL MF, M-FC AGAR,44.5C,24HR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31615",
+        "PARAMETER NAME": "FECAL COLIFORM, MPN,EC MED, 44.5C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31616",
+        "PARAMETER NAME": "COLIFORM, FECAL MF, M-FC BROTH,44.5C",
+        "SIMPLE NAME": "FECALCOLIFORM"
+    },
+    {
+        "CODE": "31633",
+        "PARAMETER NAME": "E.COLI, THERMOTOL, MF, M-TEC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31648",
+        "PARAMETER NAME": "E.COLI, MTEC-MF",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31663",
+        "PARAMETER NAME": "HALOGENS, TOT ORGAN-ICS BOTTOM SEDIMENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31667",
+        "PARAMETER NAME": "OIL PETROLEUM, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31671",
+        "PARAMETER NAME": "STREPTOCOCCI, FECAL PLATE COUNT KF AGAR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31679",
+        "PARAMETER NAME": "FECAL STREPTOCOCCI, MF M-ENTEROCOCCUS AG",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "31760",
+        "PARAMETER NAME": "KLEBSIELLA SPECIES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32015",
+        "PARAMETER NAME": "BASE/NEUTRAL COMPOUNDS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32017",
+        "PARAMETER NAME": "SODIUM CHLORIDE (SALT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32018",
+        "PARAMETER NAME": "FLUORIDE - FREE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32019",
+        "PARAMETER NAME": "CYANIDE AND THIOCYANATE - TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32020",
+        "PARAMETER NAME": "ACID COMPOUNDS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32101",
+        "PARAMETER NAME": "DICHLOROBROMOMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32102",
+        "PARAMETER NAME": "CARBON TETRACHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32103",
+        "PARAMETER NAME": "1,2-DICHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32104",
+        "PARAMETER NAME": "BROMOFORM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32105",
+        "PARAMETER NAME": "DIBROMOCHLORO- METHANE",
+        "SIMPLE NAME": "DIBROMOCHLOROMETHANE"
+    },
+    {
+        "CODE": "32106",
+        "PARAMETER NAME": "CHLOROFORM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32209",
+        "PARAMETER NAME": "CHLOROPHYLL A, CORRECTED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32230",
+        "PARAMETER NAME": "CHLOROPHYLL A",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32240",
+        "PARAMETER NAME": "TANNIN AND LIGNIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32270",
+        "PARAMETER NAME": "CHLOROFORM EXTRACTABLES, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "32730",
+        "PARAMETER NAME": "PHENOLICS, TOTAL RECOVERABLE",
+        "SIMPLE NAME": "TOTALRECOVERABLEPHENOLICS"
+    },
+    {
+        "CODE": "32731",
+        "PARAMETER NAME": "PHENOLICS IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34010",
+        "PARAMETER NAME": "TOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34011",
+        "PARAMETER NAME": "HALOGENATED TOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34030",
+        "PARAMETER NAME": "BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34031",
+        "PARAMETER NAME": "MONO-CHLORO-BENZENES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34033",
+        "PARAMETER NAME": "CHLORINATED ETHANES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34034",
+        "PARAMETER NAME": "CHLORINATED PHENOLS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34040",
+        "PARAMETER NAME": "DICHLORODEHYDRO- ABEIETIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34043",
+        "PARAMETER NAME": "PHENOLICS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34044",
+        "PARAMETER NAME": "OXIDANTS, TOTAL RESIDUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34045",
+        "PARAMETER NAME": "OXIDANTS, FREE AVAILABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34046",
+        "PARAMETER NAME": "OXIDANTS RELEASED, TOTAL RESIDUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34101",
+        "PARAMETER NAME": "NITROGLYCERIN BY GAS CHROMATOGRAPHY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34102",
+        "PARAMETER NAME": "ETHYLENE GLYCOL DINITRATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34103",
+        "PARAMETER NAME": "BENZENE, TOLUENE, XYLENE IN COMBINATN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34198",
+        "PARAMETER NAME": "BHC-DELTA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34200",
+        "PARAMETER NAME": "ACENAPHTHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34205",
+        "PARAMETER NAME": "ACENAPHTHENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34208",
+        "PARAMETER NAME": "ACENAPHTHENE, SED (DRY WEIGHT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34210",
+        "PARAMETER NAME": "ACROLEIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34215",
+        "PARAMETER NAME": "ACRYLONITRILE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34220",
+        "PARAMETER NAME": "ANTHRACENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34225",
+        "PARAMETER NAME": "ASBESTOS (FIBROUS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34230",
+        "PARAMETER NAME": "BENZO(B)FLUORANTHENE (3,4-BENZO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34235",
+        "PARAMETER NAME": "BENZENE, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34242",
+        "PARAMETER NAME": "BENZO(K)FLUORANTHENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34247",
+        "PARAMETER NAME": "BENZO(A)PYRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34253",
+        "PARAMETER NAME": "ALPHABHC DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34255",
+        "PARAMETER NAME": "B-BHC-BETA DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34259",
+        "PARAMETER NAME": "DELTA BENZENE HEXACHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34266",
+        "PARAMETER NAME": "R-BHC (LINDANE) GAMMA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34268",
+        "PARAMETER NAME": "BIS (CHLOROMETHYL) ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34273",
+        "PARAMETER NAME": "BIS (2-CHLOROETHYL) ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34278",
+        "PARAMETER NAME": "BIS (2-CHLOROETHOXY) METHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34283",
+        "PARAMETER NAME": "BIS (2-CHLORO- ISOPROPYL) ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34292",
+        "PARAMETER NAME": "BUTYL BENZYL PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34301",
+        "PARAMETER NAME": "CHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34306",
+        "PARAMETER NAME": "CHLORODIBROMOMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34311",
+        "PARAMETER NAME": "CHLOROETHANE, TOTAL WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34316",
+        "PARAMETER NAME": "CHLOROFORM, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34320",
+        "PARAMETER NAME": "CHRYSENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34336",
+        "PARAMETER NAME": "DIETHYL PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34341",
+        "PARAMETER NAME": "DIMETHYL PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34342",
+        "PARAMETER NAME": "DIMETHYL PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34346",
+        "PARAMETER NAME": "1,2-DIPHENYL- HYDRAZINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34349",
+        "PARAMETER NAME": "1,2-DIPHENYL-HYDRAZINE, DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34351",
+        "PARAMETER NAME": "ENDOSULFAN SULFATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34356",
+        "PARAMETER NAME": "B-ENDOSULFAN-BETA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34361",
+        "PARAMETER NAME": "A-ENDOSULFAN-ALPHA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34366",
+        "PARAMETER NAME": "ENDRIN ALDEHYDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34371",
+        "PARAMETER NAME": "ETHYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34376",
+        "PARAMETER NAME": "FLUORANTHENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34379",
+        "PARAMETER NAME": "FLUORANTHENE, DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34381",
+        "PARAMETER NAME": "FLUORENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34386",
+        "PARAMETER NAME": "HEXACHLOROCYCLO- PENTADIENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34391",
+        "PARAMETER NAME": "HEXACHLOROBUTADIENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34396",
+        "PARAMETER NAME": "HEXACHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34403",
+        "PARAMETER NAME": "INDENO (1,2,3-CD) PYRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34408",
+        "PARAMETER NAME": "ISOPHORONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34413",
+        "PARAMETER NAME": "METHYL BROMIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34418",
+        "PARAMETER NAME": "METHYL CHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34423",
+        "PARAMETER NAME": "METHYLENE CHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34425",
+        "PARAMETER NAME": "METHYLENE CHLORIDE, SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34428",
+        "PARAMETER NAME": "N-NITROSODI-N- PROPYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34433",
+        "PARAMETER NAME": "N-NITROSODIPHENYL- AMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34438",
+        "PARAMETER NAME": "N-NITROSODIMETHYL- AMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34447",
+        "PARAMETER NAME": "NITROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34452",
+        "PARAMETER NAME": "PARACHLOROMETA CRESOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34461",
+        "PARAMETER NAME": "PHENANTHRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34469",
+        "PARAMETER NAME": "PYRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34475",
+        "PARAMETER NAME": "TETRACHLOROETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34480",
+        "PARAMETER NAME": "THALLIUM IN BOTTOM DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34481",
+        "PARAMETER NAME": "TOLUENE, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34485",
+        "PARAMETER NAME": "TRICHLOROETHYLENE, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34488",
+        "PARAMETER NAME": "TRICHLOROFLUORO- METHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34495",
+        "PARAMETER NAME": "VINYL CHLORIDE, DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34496",
+        "PARAMETER NAME": "1,1-DICHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34501",
+        "PARAMETER NAME": "1,1-DICHLOROETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34506",
+        "PARAMETER NAME": "1,1,1-TRICHLORO- ETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34511",
+        "PARAMETER NAME": "1,1,2-TRICHLORO- ETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34516",
+        "PARAMETER NAME": "1,1,2,2-TETRACHLORO-ETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34521",
+        "PARAMETER NAME": "BENZO(GHI)PERYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34526",
+        "PARAMETER NAME": "BENZO(A)ANTHRACENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34531",
+        "PARAMETER NAME": "1,2-DICHLOROETHANE, TOTAL WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34536",
+        "PARAMETER NAME": "1,2-DICHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34541",
+        "PARAMETER NAME": "1,2-DICHLOROPROPANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34546",
+        "PARAMETER NAME": "1,2-TRANS-DICHLORO- ETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34551",
+        "PARAMETER NAME": "1,2,4-TRICHLORO- BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34556",
+        "PARAMETER NAME": "DIBENZO (A,H) ANTHRACENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34561",
+        "PARAMETER NAME": "1,3-DICHLOROPROPENE, TOTAL WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34566",
+        "PARAMETER NAME": "1,3-DICHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34571",
+        "PARAMETER NAME": "1,4-DICHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34576",
+        "PARAMETER NAME": "2-CHLOROETHYL VINYL ETHER (MIXED)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34581",
+        "PARAMETER NAME": "2-CHLORONAPHTHALENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34586",
+        "PARAMETER NAME": "2-CHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34591",
+        "PARAMETER NAME": "2-NITROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34596",
+        "PARAMETER NAME": "DI-N-OCTYL PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34601",
+        "PARAMETER NAME": "2,4-DICHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34606",
+        "PARAMETER NAME": "2,4-DIMETHYLPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34611",
+        "PARAMETER NAME": "2,4-DINITROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34616",
+        "PARAMETER NAME": "2,4-DINITROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34621",
+        "PARAMETER NAME": "2,4,6-TRICHLORO- PHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34626",
+        "PARAMETER NAME": "2,6-DINITROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34631",
+        "PARAMETER NAME": "3,3'-DICHLORO- BENZIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34636",
+        "PARAMETER NAME": "4-BROMOPHENYL PHENYL ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34641",
+        "PARAMETER NAME": "4-CHLOROPHENYL PHENYL ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34646",
+        "PARAMETER NAME": "4-NITROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34657",
+        "PARAMETER NAME": "4,6-DINITRO-O-CRESOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34668",
+        "PARAMETER NAME": "DICHLORODIFLUORO- METHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34671",
+        "PARAMETER NAME": "PCB-1016 (AROCHLOR 1016)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34675",
+        "PARAMETER NAME": "2,3,7,8-TETRACHLORO-DIBENZO-P-DIOXIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34677",
+        "PARAMETER NAME": "DIOXIN (TCDD) SUSPENDED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34694",
+        "PARAMETER NAME": "PHENOL, SINGLE COMPOUND",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34696",
+        "PARAMETER NAME": "NAPHTHALENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34699",
+        "PARAMETER NAME": "TRANS-1,3-DICHLORO PROPENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34704",
+        "PARAMETER NAME": "CIS-1,3-DICHLORO PROPENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34722",
+        "PARAMETER NAME": "THIOBENCARB (BOLERO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34726",
+        "PARAMETER NAME": "NITROGEN, AMMONIA, TOTAL (AS NH3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34728",
+        "PARAMETER NAME": "XYLENE, PARA- TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34729",
+        "PARAMETER NAME": "SODIUM MOLYBDATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34730",
+        "PARAMETER NAME": "DICHLOROPHENOL 2,3 TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34753",
+        "PARAMETER NAME": "2,3,7,8 TETRACHLORODIBENZO-P-DIOXIN SED,",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34782",
+        "PARAMETER NAME": "STREAM STAGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "34790",
+        "PARAMETER NAME": "SURFACTANTS, AS CTAS, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "37371",
+        "PARAMETER NAME": "ETHYL BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38260",
+        "PARAMETER NAME": "SURFACTANTS (MBAS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38432",
+        "PARAMETER NAME": "DALAPON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38446",
+        "PARAMETER NAME": "DICHLORAN, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38451",
+        "PARAMETER NAME": "DICHLORVOS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38462",
+        "PARAMETER NAME": "FAMPHUR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38528",
+        "PARAMETER NAME": "POLY-NUCLEAR AROMATICS (POLYRAM)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38533",
+        "PARAMETER NAME": "PROPABHLOR (RAMROD) DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38564",
+        "PARAMETER NAME": "TOKUTHION (PROTHIOFOS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38579",
+        "PARAMETER NAME": "BENZENE, HALOGENATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38580",
+        "PARAMETER NAME": "SODIUM, % EXCHANGE- ABLE SOIL, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38670",
+        "PARAMETER NAME": "XANTHATES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38671",
+        "PARAMETER NAME": "1,1 DICHLORO 2,2,2- TRIFLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38672",
+        "PARAMETER NAME": "1,1,1,2,2-PENTAFLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38674",
+        "PARAMETER NAME": "1,1,1 TRICHLORO-2,2,2TRIFLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38675",
+        "PARAMETER NAME": "1,1 DICHLORO 1,2,2,2 TETRAFLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38676",
+        "PARAMETER NAME": "DICHLOROETHENE,1,2-, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38677",
+        "PARAMETER NAME": "BROMOMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38678",
+        "PARAMETER NAME": "CHLOROMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38679",
+        "PARAMETER NAME": "DIBROMOMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38686",
+        "PARAMETER NAME": "STIROPHOS (TETRACHLORVIPHOS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38691",
+        "PARAMETER NAME": "2,3,7,8 TETRACHLORO-DIBENZO FURAN (TCDF)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38693",
+        "PARAMETER NAME": "BROMODICHLOROMETHANE EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38710",
+        "PARAMETER NAME": "BENTAZON, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38715",
+        "PARAMETER NAME": "BOLSTAR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38745",
+        "PARAMETER NAME": "2,4-DB",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38765",
+        "PARAMETER NAME": "DEET",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38779",
+        "PARAMETER NAME": "DINOSEB (DNBP)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38787",
+        "PARAMETER NAME": "ETHALFLURALIN WATER, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38820",
+        "PARAMETER NAME": "ISOPROPALIN WATER, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38855",
+        "PARAMETER NAME": "NALED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38897",
+        "PARAMETER NAME": "TRICHLORONATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38925",
+        "PARAMETER NAME": "DECHLORANE PLUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "38928",
+        "PARAMETER NAME": "ETHYLENE THIOUREA (ETU)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39002",
+        "PARAMETER NAME": "BALAN (BENEFIN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39030",
+        "PARAMETER NAME": "TREFLAN (TRIFLURALIN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39032",
+        "PARAMETER NAME": "PENTACHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39033",
+        "PARAMETER NAME": "ATRAZINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39045",
+        "PARAMETER NAME": "2,4,5-TP(SILVEX) ACIDS/SALTS WHOLE WATER SAMPLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39051",
+        "PARAMETER NAME": "METHOMYL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39053",
+        "PARAMETER NAME": "ALDICARB",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39055",
+        "PARAMETER NAME": "SIMAZINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39084",
+        "PARAMETER NAME": "TOTAL PURGEABLE HALOCARBONS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39100",
+        "PARAMETER NAME": "BIS (2-ETHYLHEXYL) PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39110",
+        "PARAMETER NAME": "DI-N-BUTYL PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39112",
+        "PARAMETER NAME": "DI-N-BUTYL PHTHALATE, DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39117",
+        "PARAMETER NAME": "PHTHALATE ESTERS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39120",
+        "PARAMETER NAME": "BENZIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39129",
+        "PARAMETER NAME": "CHLORENDIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39150",
+        "PARAMETER NAME": "DICHLONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39161",
+        "PARAMETER NAME": "ALACHLOR (BRAND NAME-LASSO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39175",
+        "PARAMETER NAME": "VINYL CHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39180",
+        "PARAMETER NAME": "TRICHLOROETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39300",
+        "PARAMETER NAME": "4,4'-DDT (P,P'-DDT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39310",
+        "PARAMETER NAME": "4,4'-DDD (P,P'-DDD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39320",
+        "PARAMETER NAME": "4,4'-DDE (P,P'-DDE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39330",
+        "PARAMETER NAME": "ALDRIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39336",
+        "PARAMETER NAME": "BHC-ALPHA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39337",
+        "PARAMETER NAME": "A-BHC-ALPHA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39338",
+        "PARAMETER NAME": "B-BHC-BETA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39340",
+        "PARAMETER NAME": "GAMMA-BHC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39344",
+        "PARAMETER NAME": "BHC-GAMMA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39348",
+        "PARAMETER NAME": "CHLORDANE, ALPHA, WHOLE WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39350",
+        "PARAMETER NAME": "CHLORDANE (TECH MIX. AND METABOLITES)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39356",
+        "PARAMETER NAME": "METOLACHLOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39357",
+        "PARAMETER NAME": "RONNEL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39360",
+        "PARAMETER NAME": "DDD IN WHOLE WATER SAMPLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39365",
+        "PARAMETER NAME": "DDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39370",
+        "PARAMETER NAME": "DDT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39379",
+        "PARAMETER NAME": "DDT/DDD/DDE, SUM OF P,P' & O,P' ISOMERS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39380",
+        "PARAMETER NAME": "DIELDRIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39388",
+        "PARAMETER NAME": "ENDOSULFAN, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39390",
+        "PARAMETER NAME": "ENDRIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39398",
+        "PARAMETER NAME": "ETHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39400",
+        "PARAMETER NAME": "TOXAPHENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39410",
+        "PARAMETER NAME": "HEPTACHLOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39420",
+        "PARAMETER NAME": "HEPTACHLOR EPOXIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39480",
+        "PARAMETER NAME": "METHOXYCHLOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39488",
+        "PARAMETER NAME": "PCB-1221 (AROCHLOR 1221)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39492",
+        "PARAMETER NAME": "PCB-1232 (AROCHLOR 1232)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39496",
+        "PARAMETER NAME": "PCB-1242 (AROCHLOR 1242)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39500",
+        "PARAMETER NAME": "PCB-1248 (AROCHLOR 1248)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39504",
+        "PARAMETER NAME": "PCB-1254 (AROCHLOR 1254)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39508",
+        "PARAMETER NAME": "PCB-1260 (AROCHLOR 1260)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39516",
+        "PARAMETER NAME": "POLYCHLORINATED BIPHENYLS (PCBS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39519",
+        "PARAMETER NAME": "PCBS IN BOTTOM DEPS. (DRY SOLIDS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39521",
+        "PARAMETER NAME": "POLYBROMINATED BIPHENYLS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39524",
+        "PARAMETER NAME": "POLYBROMINATED DIPHENYL OXIDES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39530",
+        "PARAMETER NAME": "MALATHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39540",
+        "PARAMETER NAME": "PARATHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39560",
+        "PARAMETER NAME": "DEMETON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39570",
+        "PARAMETER NAME": "DIAZINON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39580",
+        "PARAMETER NAME": "GUTHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39600",
+        "PARAMETER NAME": "METHYL PARATHION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39610",
+        "PARAMETER NAME": "MEVINPHOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39650",
+        "PARAMETER NAME": "DIURON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39700",
+        "PARAMETER NAME": "HEXACHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39702",
+        "PARAMETER NAME": "HEXACHLOROBUTADIENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39730",
+        "PARAMETER NAME": "2,4-DICHLOROPHENOXYACETIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39740",
+        "PARAMETER NAME": "2,4,5 - T",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39750",
+        "PARAMETER NAME": "SEVIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39755",
+        "PARAMETER NAME": "MIREX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39760",
+        "PARAMETER NAME": "SILVEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39770",
+        "PARAMETER NAME": "DACTHAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39782",
+        "PARAMETER NAME": "LINDANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39930",
+        "PARAMETER NAME": "PYRETHRINS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39941",
+        "PARAMETER NAME": "ROUNDUP",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "39942",
+        "PARAMETER NAME": "HYDROCARBONS, AROMATIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45022",
+        "PARAMETER NAME": "PROPYL ACETATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45025",
+        "PARAMETER NAME": "CHLOROFLUOROMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45028",
+        "PARAMETER NAME": "CHLORODIFLUORO- METHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45058",
+        "PARAMETER NAME": "METHYL PHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45097",
+        "PARAMETER NAME": "METHYL STYRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45130",
+        "PARAMETER NAME": "ALKYL BENZENE SULFONATED (ABS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45131",
+        "PARAMETER NAME": "ALKYLBENSENESULFONATES, LINEAR (LAS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45265",
+        "PARAMETER NAME": "BUTANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45316",
+        "PARAMETER NAME": "BUTOXY ETHOXY ETHANOL TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45501",
+        "PARAMETER NAME": "PETROL HYDROCARBONS,TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45599",
+        "PARAMETER NAME": "TEMPERATURE RISE, LENGTH OF EXCURSION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45600",
+        "PARAMETER NAME": "TEMPERATURE, LENGTH OF EXCURSION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45603",
+        "PARAMETER NAME": "FISH FOOD FED PER DAY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45604",
+        "PARAMETER NAME": "FISH ON HAND",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45613",
+        "PARAMETER NAME": "FLOATING SOLIDS OR VISIBLE FOAM-VISUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "45614",
+        "PARAMETER NAME": "SANITARY WASTE DISCHARGED-ASSESSMNT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46000",
+        "PARAMETER NAME": "PHENOLS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46116",
+        "PARAMETER NAME": "HYDROCARBONS, TOTAL GAS CHROMATOGRAPH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46225",
+        "PARAMETER NAME": "CHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46312",
+        "PARAMETER NAME": "DIETHYLHEXYL-PHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46313",
+        "PARAMETER NAME": "PHORATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46390",
+        "PARAMETER NAME": "TOXICITY CHARACTERISTIC LEACHING PROCED.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46391",
+        "PARAMETER NAME": "ZINC, TOTAL SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46392",
+        "PARAMETER NAME": "NICKEL, TOTAL SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46393",
+        "PARAMETER NAME": "LEAD, TOTAL SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46394",
+        "PARAMETER NAME": "COPPER, TOTAL SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46395",
+        "PARAMETER NAME": "CADIUM, TOTAL SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46396",
+        "PARAMETER NAME": "PROCESS TO SIGNIFICNTLY REDUCE PATHOGENS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46397",
+        "PARAMETER NAME": "PROCESS TO FURTHER REDUCE PATHOGENS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46475",
+        "PARAMETER NAME": "DODECENE,4 TOTAL EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46476",
+        "PARAMETER NAME": "DIETHYLENE GLYCOL DINITRATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46477",
+        "PARAMETER NAME": "METRIOL TRINITRATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46478",
+        "PARAMETER NAME": "EQUIPMENT INSPECTION - VISUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "46529",
+        "PARAMETER NAME": "RAINFALL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "47021",
+        "PARAMETER NAME": "METHYLENE BLUE ACTIVE SUBSTANCES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "47024",
+        "PARAMETER NAME": "BOD, 5-DAY 20 DEG C PER CFS OF STREAMFLW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "47027",
+        "PARAMETER NAME": "CHLORIDE, PER CFS OF STREAMFLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "48201",
+        "PARAMETER NAME": "COLIFORM, FECAL MPN + MEMBRANE FTL 44.5C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49014",
+        "PARAMETER NAME": "SODIUM SALT OF ACIFLUOROFEN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49017",
+        "PARAMETER NAME": "ANN. AMT SLUDGE DISPOSED BY OTHER METHOD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49018",
+        "PARAMETER NAME": "ANNUAL AMT OF SLUDGEINCINERATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49019",
+        "PARAMETER NAME": "ANNUAL SLUDGE PRODUCTION, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49020",
+        "PARAMETER NAME": "ANNUAL AMOUNT OF SLUDGE LAND APPLIED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49021",
+        "PARAMETER NAME": "ANNUAL AMT. SLUDGE DISPOSED SURFACE UNIT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49022",
+        "PARAMETER NAME": "ANNUAL AMT SLUDGE DISPOSED IN LANDFILL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49023",
+        "PARAMETER NAME": "ANNUAL AMT SLUDGE TRANSPORTED INTERSTATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49031",
+        "PARAMETER NAME": "SELENIUM, SLUDGE, TOTAL DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49146",
+        "PARAMETER NAME": "1,2-DIBROMO-3-CHLOROPROPANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49538",
+        "PARAMETER NAME": "DIFLUOROETHANE-1,1,TOTAL,WATER UG/L",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49539",
+        "PARAMETER NAME": "DIFLUOROMETHANE, TOTAL, WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49540",
+        "PARAMETER NAME": "TETRAFLUROETHANE-1,1,1,2, TOTAL,WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49541",
+        "PARAMETER NAME": "CHLORO-1-PENTAFLUOROETHANE-1,1,2,2,2,WTR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49542",
+        "PARAMETER NAME": "2-METHOXYETHANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49543",
+        "PARAMETER NAME": "N,N-DIMETHYLANILINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49562",
+        "PARAMETER NAME": "MOLINATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49565",
+        "PARAMETER NAME": "ARSENIC TOTAL, DRY WEIGHT, SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49607",
+        "PARAMETER NAME": "ULTRAVIOLET LIGHT INTENSITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49702",
+        "PARAMETER NAME": "AMMONIUM PICRATE (EXPLOSIVE D)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49875",
+        "PARAMETER NAME": "PROPYLENE GLYCOL MONOBUTYL ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49876",
+        "PARAMETER NAME": "TERRAMYCIN (1 HOUR APPLICATION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49877",
+        "PARAMETER NAME": "CHLORAMINE (TOTAL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49878",
+        "PARAMETER NAME": "POTASSIUM PERMANGANATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49879",
+        "PARAMETER NAME": "CHLORIDE (1% SOLUTION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49880",
+        "PARAMETER NAME": "CHLORIDE (3% SOLUTION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49881",
+        "PARAMETER NAME": "DIQUAT PRODUCT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49882",
+        "PARAMETER NAME": "FORMALIN (250 MG/L APPLICATION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49883",
+        "PARAMETER NAME": "FORMALIN (1670 MG/L APPLICATION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49884",
+        "PARAMETER NAME": "HATCHERY FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49885",
+        "PARAMETER NAME": "HATCHERY FLOW TREATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49886",
+        "PARAMETER NAME": "BETZ CLAM-TROL CT-2",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49887",
+        "PARAMETER NAME": "BETZ CLAM-TROL CT-4",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49888",
+        "PARAMETER NAME": "1,1-DICHLORO-2,2-DIETHOXYETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49889",
+        "PARAMETER NAME": "ETHYLBENZENEANINE-2",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49890",
+        "PARAMETER NAME": "TETRAMETHYLUREA, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "49924",
+        "PARAMETER NAME": "N-METHYLBENZENEAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50008",
+        "PARAMETER NAME": "PRIORITY POLLUTANTS TOTAL EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50018",
+        "PARAMETER NAME": "2,4-DI-TERT-PENTYLPHENOL, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50019",
+        "PARAMETER NAME": "BUTYLAMINE, TOTAL, WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50020",
+        "PARAMETER NAME": "L-FORMYL PIPERDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50021",
+        "PARAMETER NAME": "TRIPROPYLORTHO- FORMATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50022",
+        "PARAMETER NAME": "TRIMETHLORTHO- ACETATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50023",
+        "PARAMETER NAME": "U-TOLUIDINE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50024",
+        "PARAMETER NAME": "CHLORDANE (CA OCEAN PLAN DEFINITION)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50037",
+        "PARAMETER NAME": "DURATION OF DISCHARGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50043",
+        "PARAMETER NAME": "PLANT INTAKE AS % OF STREAM FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50045",
+        "PARAMETER NAME": "APPLICATION RATE AREA SPRAYED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50047",
+        "PARAMETER NAME": "FLOW, MAXIMUM DURING 24 HR PERIOD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50049",
+        "PARAMETER NAME": "FLOW, WASTEWATER BY-PASSING TRTMNT PLANT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50050",
+        "PARAMETER NAME": "FLOW, IN CONDUIT OR THRU TREATMENT PLANT",
+        "SIMPLE NAME": "FLOW"
+    },
+    {
+        "CODE": "50056",
+        "PARAMETER NAME": "INJECTION PRESSURE- AT WELL HEAD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50057",
+        "PARAMETER NAME": "PRESSURE IN ANNULUS OF WASTE INJECT WELL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50059",
+        "PARAMETER NAME": "CHLORINE RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50060",
+        "PARAMETER NAME": "CHLORINE, TOTAL RESIDUAL",
+        "SIMPLE NAME": "TOTALRESIDUALCHLORINE"
+    },
+    {
+        "CODE": "50064",
+        "PARAMETER NAME": "CHLORINE, FREE AVAILABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50068",
+        "PARAMETER NAME": "CHLORINATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50070",
+        "PARAMETER NAME": "CHLORINE DIOXIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50074",
+        "PARAMETER NAME": "CHLORITE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50075",
+        "PARAMETER NAME": "FERRICYANIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50076",
+        "PARAMETER NAME": "BOD, PERCENT REMOVAL(TOTAL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50248",
+        "PARAMETER NAME": "TOTAL PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "50258",
+        "PARAMETER NAME": "HYDROGEN PEROXIDE (T) DILUTION RATIO",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "60050",
+        "PARAMETER NAME": "ALGAE, TOTAL (CELLS/ML)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61211",
+        "PARAMETER NAME": "ENTEROCOCCI, COLONY FORMING UNITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61400",
+        "PARAMETER NAME": "BIOASSAY (24 HR.)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61401",
+        "PARAMETER NAME": "BIOASSAY (48 HR.)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61402",
+        "PARAMETER NAME": "BIOASSAY (96 HR.)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61406",
+        "PARAMETER NAME": "TOXICITY, FINAL CONC TOXICITY UNITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61425",
+        "PARAMETER NAME": "TOXICITY, CERIODAPHNIA ACUTE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61426",
+        "PARAMETER NAME": "TOXICITY, CERIODAPHNIA CHRONIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61427",
+        "PARAMETER NAME": "TOXICITY, PIMEPHALES ACUTE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61428",
+        "PARAMETER NAME": "TOXICITY, PIMEPHALES CHRONIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61503",
+        "PARAMETER NAME": "LEAD SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61504",
+        "PARAMETER NAME": "LEAD SLUDGE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61506",
+        "PARAMETER NAME": "COPPER SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61507",
+        "PARAMETER NAME": "COPPER SLUDGE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61509",
+        "PARAMETER NAME": "ZINC SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61510",
+        "PARAMETER NAME": "ZINC SLUDGE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61512",
+        "PARAMETER NAME": "CHROMIUM SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61513",
+        "PARAMETER NAME": "CHROMIUM SLUDGE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61515",
+        "PARAMETER NAME": "NICKEL SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61516",
+        "PARAMETER NAME": "NICKEL SLUDGE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61518",
+        "PARAMETER NAME": "SELENIUM SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61521",
+        "PARAMETER NAME": "ARSENIC, SLUDGE TOT. DRY WT (AS AR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61524",
+        "PARAMETER NAME": "BERYLLIUM, SLUDGE, TOT. DRY WT (AS BE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61527",
+        "PARAMETER NAME": "CADMIUM SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61528",
+        "PARAMETER NAME": "CADMIUM SLUDGE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61533",
+        "PARAMETER NAME": "NITROGEN SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61536",
+        "PARAMETER NAME": "NITROGEN,AMMONIA, SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61539",
+        "PARAMETER NAME": "NITROGEN (AS NO3) SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61553",
+        "PARAMETER NAME": "SOLIDS,TOTAL,SLUDGE,PERCENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61556",
+        "PARAMETER NAME": "CYANIDE SLUDGE SOLID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61574",
+        "PARAMETER NAME": "AMMONIA (AS N) + UNIONIZED AMMONIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61575",
+        "PARAMETER NAME": "NET RATE OF ADDITIONOF HEAT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "61576",
+        "PARAMETER NAME": "TEMP. DIFF. BETWEEN INTAKE AND DISCHARGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70009",
+        "PARAMETER NAME": "BROMOCHLOROMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70010",
+        "PARAMETER NAME": "DICHLOROFLUORO METHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70012",
+        "PARAMETER NAME": "4-CHLORO-3-METHYL PHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70013",
+        "PARAMETER NAME": "TEMP. DIFFERENCE SUMMER (DEG. F)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70014",
+        "PARAMETER NAME": "TEMP. DIFFERENCE WINTER (DEG. F)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70015",
+        "PARAMETER NAME": "FREON, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70017",
+        "PARAMETER NAME": "HEXACHLOROPENTADIENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70022",
+        "PARAMETER NAME": "TRICHLOROBENZENE 1,2,4 TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70029",
+        "PARAMETER NAME": "PHENOLIC COMPOUNDS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70295",
+        "PARAMETER NAME": "SOLIDS, TOTAL DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70296",
+        "PARAMETER NAME": "SOLIDS, TOTAL DISSOLVED (TDS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70297",
+        "PARAMETER NAME": "SOLIDS, TOTAL SUSP. PER 1000 GALLONS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70300",
+        "PARAMETER NAME": "SOLIDS, TOTAL DISSOLVED- 180 DEG.C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70314",
+        "PARAMETER NAME": "DACONIL (C8CL4N2)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70316",
+        "PARAMETER NAME": "SEDIMENT SAMPLE, (DRY WEIGHT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70318",
+        "PARAMETER NAME": "SOLIDS, TOTAL, PERCENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70319",
+        "PARAMETER NAME": "SOLIDS, FIXED, % OF TOTAL SOLIDS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70322",
+        "PARAMETER NAME": "SOLIDS,VOLATILE % OF TOTAL SOLIDS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70352",
+        "PARAMETER NAME": "CHLORIDE, ORGANIC, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70353",
+        "PARAMETER NAME": "ORGANIC HALIDES, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70505",
+        "PARAMETER NAME": "PHOSPHATE, TOTAL COLOR. METHOD (AS P)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70506",
+        "PARAMETER NAME": "PHOSPHATE, DISSOLVED COLOR METHOD (AS P)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "70507",
+        "PARAMETER NAME": "PHOSPHOROUS, IN TOTAL ORTHOPHOSPHATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71800",
+        "PARAMETER NAME": "UREA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71820",
+        "PARAMETER NAME": "DENSITY OF WATER AT 20 DEG. C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71845",
+        "PARAMETER NAME": "NITROGEN, AMMONIA TOTAL (AS NH4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71850",
+        "PARAMETER NAME": "NITROGEN, NITRATE TOTAL (AS NO3)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71855",
+        "PARAMETER NAME": "NITROGEN, NITRITE TOTAL (AS NO2)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71865",
+        "PARAMETER NAME": "IODIDE (AS I)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71867",
+        "PARAMETER NAME": "IODINE RESIDUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71868",
+        "PARAMETER NAME": "IODINE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71870",
+        "PARAMETER NAME": "BROMIDE (AS BR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71871",
+        "PARAMETER NAME": "BROMINE REPORTED AS THE ELEMENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71872",
+        "PARAMETER NAME": "BROMINE CHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71875",
+        "PARAMETER NAME": "HYDROGEN SULFIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71880",
+        "PARAMETER NAME": "FORMALDEHYDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71888",
+        "PARAMETER NAME": "PHOSPHORUS,TOTAL SOLUBLE (AS PO4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71890",
+        "PARAMETER NAME": "MERCURY, DISSOLVED (AS HG)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71900",
+        "PARAMETER NAME": "MERCURY, TOTAL (AS HG)",
+        "SIMPLE NAME": "TOTALMERCURY(ASHG)"
+    },
+    {
+        "CODE": "71901",
+        "PARAMETER NAME": "MERCURY TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71910",
+        "PARAMETER NAME": "GOLD, TOTAL (AS AU)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "71921",
+        "PARAMETER NAME": "MERCURY, TOT IN BOT DEPOSITS (DRY WGT)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "72019",
+        "PARAMETER NAME": "DEPTH TO WATER LEVELFT BELOW LANDSURFACE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "72025",
+        "PARAMETER NAME": "DEPTH OF POND OR RESERVOIR IN FEET",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "72035",
+        "PARAMETER NAME": "PUMP HOURS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "72107",
+        "PARAMETER NAME": "LENGTH OF LONGEST PH EXCURSION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "72108",
+        "PARAMETER NAME": "% OF TIME EXCEEDING PH LIMITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73010",
+        "PARAMETER NAME": "ETHYL ETHER BY GAS CHROMATOGRAPH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73183",
+        "PARAMETER NAME": "PHENACETIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73184",
+        "PARAMETER NAME": "ETHYL METHANESULFONATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73190",
+        "PARAMETER NAME": "METHYL METHANESULFONATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73207",
+        "PARAMETER NAME": "ACETONITRILE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73211",
+        "PARAMETER NAME": "BROMODICHLOROMETHANEDRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73382",
+        "PARAMETER NAME": "XYLENES (TOTAL), DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73525",
+        "PARAMETER NAME": "2-BUTANONE PEROXIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73529",
+        "PARAMETER NAME": "BENZENEAMINE, 4-CHLORO-",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73593",
+        "PARAMETER NAME": "METHYLHYDRAZINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73617",
+        "PARAMETER NAME": "MORPHOLINE, 4-NITROSO",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "73619",
+        "PARAMETER NAME": "1-NITROSOPIPERIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74008",
+        "PARAMETER NAME": "POWER PLANT LOAD IN MEGAWATTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74010",
+        "PARAMETER NAME": "IRON, TOTAL_(AS FE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74012",
+        "PARAMETER NAME": "CONDENSER COOLING WATER TEMP. INCREASE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74013",
+        "PARAMETER NAME": "TEMPERATURE CALCULATED LIMIT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74015",
+        "PARAMETER NAME": "PHENOLS, CHLORINATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74020",
+        "PARAMETER NAME": "FLOW - PUMP OUT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74025",
+        "PARAMETER NAME": "TEMPERATURE, SUMMER (DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74026",
+        "PARAMETER NAME": "TEMPERATURE, WINTER (DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74027",
+        "PARAMETER NAME": "TEMPERATURE, SUMMER (DEG. F)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74028",
+        "PARAMETER NAME": "TEMPERATURE, WINTER (DEG. F)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74029",
+        "PARAMETER NAME": "TEMPERATURE RATE OF CHANGE DEG. F/HOUR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74051",
+        "PARAMETER NAME": "ALGICIDES, GENERAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74052",
+        "PARAMETER NAME": "CHLORINATED HYDRO- CARBONS, GENERAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74053",
+        "PARAMETER NAME": "PESTICIDES, GENERAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74054",
+        "PARAMETER NAME": "STREPTOCOCCI, FECAL GENERAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74055",
+        "PARAMETER NAME": "COLIFORM, FECAL GENERAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74056",
+        "PARAMETER NAME": "COLIFORM, TOTAL GENERAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74057",
+        "PARAMETER NAME": "COLIFORM, FECAL, COLONY FORMING UNITS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74060",
+        "PARAMETER NAME": "FLOW RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74062",
+        "PARAMETER NAME": "OVERFLOW USE, OCCURANCES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74069",
+        "PARAMETER NAME": "STREAM FLOW, ESTIMATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74071",
+        "PARAMETER NAME": "FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "74076",
+        "PARAMETER NAME": "FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "75062",
+        "PARAMETER NAME": "ISOPROPYL ALCOHOL (C3H8O), SED.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76023",
+        "PARAMETER NAME": "CHLORINATED DIBENZO-FURANS, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76024",
+        "PARAMETER NAME": "CHLORINATED DIBENZO-FURANS, SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76025",
+        "PARAMETER NAME": "CHLORINATED DIBENZO-P-DIOXINS, EFFLUENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76026",
+        "PARAMETER NAME": "CHLORINATED DIBENZO-P-DIOXINS, SLUDGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76028",
+        "PARAMETER NAME": "ACETYL CHLORIDE, TRICHLORO-",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76028",
+        "PARAMETER NAME": "BASE NEUTRALS & ACID (METHOD 625),EFFLNT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76029",
+        "PARAMETER NAME": "ORGANICS, TOT PURGE-ABLES (METHOD 624)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76030",
+        "PARAMETER NAME": "BASE NEUTRALS & ACID (METHOD 625), TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76993",
+        "PARAMETER NAME": "2,2DIBROMO-3-NITRILOPROPIONAMIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76996",
+        "PARAMETER NAME": "METHYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76997",
+        "PARAMETER NAME": "METHYL CYANIDE (ACETONITRILE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "76999",
+        "PARAMETER NAME": "ETHYLENE OXIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77001",
+        "PARAMETER NAME": "ACETALDEHYDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77002",
+        "PARAMETER NAME": "ETHYLAMINE, WHOLE WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77003",
+        "PARAMETER NAME": "DIMETHYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77004",
+        "PARAMETER NAME": "ETHANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77006",
+        "PARAMETER NAME": "FORMIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77015",
+        "PARAMETER NAME": "ISOPROPANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77018",
+        "PARAMETER NAME": "N-PROPANOL (N-PROPYLALCHOHOL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77023",
+        "PARAMETER NAME": "ETHYLENE GLYCOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77030",
+        "PARAMETER NAME": "DIETHYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77031",
+        "PARAMETER NAME": "PROPIONIC ACID, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77033",
+        "PARAMETER NAME": "ISOBUTYL ALCOHOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77034",
+        "PARAMETER NAME": "1-BUTANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77035",
+        "PARAMETER NAME": "2-METHYL-2-PROPANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77038",
+        "PARAMETER NAME": "1,2-PROPANEDIOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77041",
+        "PARAMETER NAME": "CARBON DISULFIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77042",
+        "PARAMETER NAME": "DIMETHYL SULFOXIDE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77045",
+        "PARAMETER NAME": "PYRIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77053",
+        "PARAMETER NAME": "PIPERDIN, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77057",
+        "PARAMETER NAME": "VINYL ACETATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77063",
+        "PARAMETER NAME": "BUTANOIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77066",
+        "PARAMETER NAME": "2-METHYL-1,3-DIOXOLA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77081",
+        "PARAMETER NAME": "OXALIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77089",
+        "PARAMETER NAME": "ANILINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77093",
+        "PARAMETER NAME": "CIS-1,2-DICHLORO- ETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77097",
+        "PARAMETER NAME": "CYCLOHEXANONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77101",
+        "PARAMETER NAME": "CYCLOHEXYL AMINE (AMINO HEXAHYDRO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77103",
+        "PARAMETER NAME": "2-HEXANONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77110",
+        "PARAMETER NAME": "N,N-DIMETHYLFORMAMIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77111",
+        "PARAMETER NAME": "TRIETHYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77117",
+        "PARAMETER NAME": "ISOPROPYL ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77124",
+        "PARAMETER NAME": "BEZONITRILE (CYANOBENZENE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77128",
+        "PARAMETER NAME": "STYRENE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77135",
+        "PARAMETER NAME": "O-XYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77142",
+        "PARAMETER NAME": "O-TOLUIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77146",
+        "PARAMETER NAME": "P-CRESOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77161",
+        "PARAMETER NAME": "1,2-DICHLOROPROPENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77163",
+        "PARAMETER NAME": "1,3 DICHLOROPROPENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77165",
+        "PARAMETER NAME": "HYDROQUINONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77173",
+        "PARAMETER NAME": "1,3 DICHLOROPROPANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77179",
+        "PARAMETER NAME": "5-METHYL-2-HEXANONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77183",
+        "PARAMETER NAME": "N-OCTANE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77222",
+        "PARAMETER NAME": "1, 2, 4-TRIMETHYL- BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77223",
+        "PARAMETER NAME": "ISOPROPYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77224",
+        "PARAMETER NAME": "N-PROPYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77226",
+        "PARAMETER NAME": "1, 3, 5-TRIMETHYL- BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77234",
+        "PARAMETER NAME": "N-ETHYLBENZENEAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77237",
+        "PARAMETER NAME": "DIMETHYLANILINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77243",
+        "PARAMETER NAME": "3,4-DIMETHYL PHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77247",
+        "PARAMETER NAME": "BENZIOC ACIDS-TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77285",
+        "PARAMETER NAME": "1,4 DICHLOROBUTANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77287",
+        "PARAMETER NAME": "2-CHLOROANILINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77295",
+        "PARAMETER NAME": "3-CHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77296",
+        "PARAMETER NAME": "4-CHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77299",
+        "PARAMETER NAME": "QUINOLINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77300",
+        "PARAMETER NAME": "DIBUTYLAMINE, WHOLE WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77311",
+        "PARAMETER NAME": "2-ETHYL-1-HEXANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77337",
+        "PARAMETER NAME": "1,2,4,5-TETRAMETHYL-BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77342",
+        "PARAMETER NAME": "N-BUTYLBENZENE (WHOLE WATER, UG/L",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77350",
+        "PARAMETER NAME": "SEC-BUTYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77353",
+        "PARAMETER NAME": "TERT-BUTYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77402",
+        "PARAMETER NAME": "2-PHENOXYETHANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77416",
+        "PARAMETER NAME": "2-METHYLNAPHTHALENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77418",
+        "PARAMETER NAME": "1-METHYLNAPHTHALENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77421",
+        "PARAMETER NAME": "2-METHYL-4-CHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77453",
+        "PARAMETER NAME": "PHTHALIC ANHYDRIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77540",
+        "PARAMETER NAME": "2,5 DICHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77541",
+        "PARAMETER NAME": "2,6 DICHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77542",
+        "PARAMETER NAME": "HEXAMETHYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77545",
+        "PARAMETER NAME": "SAFROLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77581",
+        "PARAMETER NAME": "P-AMINOBIPHENYL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77613",
+        "PARAMETER NAME": "1,2,3 TRICHLORO- BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77647",
+        "PARAMETER NAME": "FREON 113 (1,1,1-TRIFLOURO-2,2-",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77651",
+        "PARAMETER NAME": "ETHYLENE DIBROMIDE (1,2 DIBROMOETHANE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77652",
+        "PARAMETER NAME": "1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77666",
+        "PARAMETER NAME": "CITRIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77672",
+        "PARAMETER NAME": "DIMETHYLTEREPHTHALATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77676",
+        "PARAMETER NAME": "TRICHLOROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77687",
+        "PARAMETER NAME": "2,4,5 - TRICHLORO- PHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77700",
+        "PARAMETER NAME": "CARBARYL TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77734",
+        "PARAMETER NAME": "1,2,4,5-TETRACHLORO-BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77770",
+        "PARAMETER NAME": "2,3,4,6-TETRACHLORO-PHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77779",
+        "PARAMETER NAME": "DIBROMODICHLOROMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77793",
+        "PARAMETER NAME": "PENTACHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77819",
+        "PARAMETER NAME": "TRI-N-BUTYL- PHOSPHATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77835",
+        "PARAMETER NAME": "HEXACHLOROCYCLOHEXANE (BHC) TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77860",
+        "PARAMETER NAME": "BUTACHLOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77881",
+        "PARAMETER NAME": "TRIPHENYL PHOSPHATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77885",
+        "PARAMETER NAME": "METHANOL, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77889",
+        "PARAMETER NAME": "OCTACHLORO-CYCLOPENTENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77936",
+        "PARAMETER NAME": "BROMOCHLOROETHANE IN WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77957",
+        "PARAMETER NAME": "CHLOROBENZOIC ACID, IN WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77969",
+        "PARAMETER NAME": "CHLORPYRIFOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77970",
+        "PARAMETER NAME": "CHLOROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77981",
+        "PARAMETER NAME": "DICHLOROPHENOL, IN WATER, UG/L",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "77983",
+        "PARAMETER NAME": "DICHLOROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78028",
+        "PARAMETER NAME": "TETRACHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78032",
+        "PARAMETER NAME": "PROPANE, 2-METHOXY- 2-METHYL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78099",
+        "PARAMETER NAME": "TRIMTHXY METHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78109",
+        "PARAMETER NAME": "ALLYCHLORIDE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78111",
+        "PARAMETER NAME": "N,N-DIMETHYL FORMAMIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78113",
+        "PARAMETER NAME": "ETHYL BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78115",
+        "PARAMETER NAME": "HALOGEN, TOTAL ORGANIC",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78115",
+        "PARAMETER NAME": "PENTAERYTHRITOL TETRANITRATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78124",
+        "PARAMETER NAME": "BENZENE (VOLATILE ANALYSIS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78132",
+        "PARAMETER NAME": "1,4-XYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78133",
+        "PARAMETER NAME": "4-METHYL-2-PENTANONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78136",
+        "PARAMETER NAME": "TRIMETHYL BENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78141",
+        "PARAMETER NAME": "ORGANICS, TOTAL TOXIC (TTO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78143",
+        "PARAMETER NAME": "MONOCHLOROBENZYLTRIFLUORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78149",
+        "PARAMETER NAME": "DIETHYLAMINOETHANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78151",
+        "PARAMETER NAME": "EDTA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78155",
+        "PARAMETER NAME": "DICHLOROBENZYLTRIFLUORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78159",
+        "PARAMETER NAME": "NIACINAMIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78161",
+        "PARAMETER NAME": "POLYMETHYLACRYLIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78167",
+        "PARAMETER NAME": "THEOPHYLLINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78168",
+        "PARAMETER NAME": "CARBAMATES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78171",
+        "PARAMETER NAME": "AROMATICS, TOTAL PURGEABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78198",
+        "PARAMETER NAME": "HEPTANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78200",
+        "PARAMETER NAME": "N-NITROSODIETHYL- AMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78202",
+        "PARAMETER NAME": "ETHYLENE CHLOROHYDRIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78204",
+        "PARAMETER NAME": "MONOCHLOROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78206",
+        "PARAMETER NAME": "N-NITROSOPYRROLIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78207",
+        "PARAMETER NAME": "N-NITROSODIBUTYL- AMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78216",
+        "PARAMETER NAME": "ALDRIN + DIELDRIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78218",
+        "PARAMETER NAME": "PHENOLIC COMPOUNDS, UNCHLORINATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78219",
+        "PARAMETER NAME": "ISOTHIAZOLONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78221",
+        "PARAMETER NAME": "ORGANIC PESTICIDE CHEMICALS (40CFR455)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78222",
+        "PARAMETER NAME": "ORGANIC ACTIVE IN- GREDIENTS (40CFR455)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78223",
+        "PARAMETER NAME": "TOTAL TOXIC ORGANICS (TTO) (40CFR413)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78224",
+        "PARAMETER NAME": "TOTAL TOXIC ORGANICS (TTO) (40CFR433)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78229",
+        "PARAMETER NAME": "TOTAL TOXIC ORGANICS(TTO) (40CFR465)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78230",
+        "PARAMETER NAME": "TOTAL TOXIC ORGANICS (TTO) (40CFR467)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78232",
+        "PARAMETER NAME": "TOTAL TOXIC ORGANICS (TTO) (40CFR469)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78236",
+        "PARAMETER NAME": "ORGANICS-TOT VOLTILE (NJAC REG.7:23-17E)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78237",
+        "PARAMETER NAME": "ORGANICS, VOLATILE (NJAC REG. 7:23-17E)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78239",
+        "PARAMETER NAME": "METALS, TOX PRIORITY POLLUTANTS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78240",
+        "PARAMETER NAME": "METALS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78246",
+        "PARAMETER NAME": "SOLIDS-FLOTNG-VISUAL DETRMNTN-# DAYS OBS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78247",
+        "PARAMETER NAME": "CHROMIUM, HEXAVALENT TOT RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78248",
+        "PARAMETER NAME": "CYANIDE, TOTAL RECOVERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78356",
+        "PARAMETER NAME": "2-BUTANONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78389",
+        "PARAMETER NAME": "TETRACHLOROETHENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78391",
+        "PARAMETER NAME": "TRICHLOROETHENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78395",
+        "PARAMETER NAME": "2-METHYLPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78396",
+        "PARAMETER NAME": "4METHYLPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78428",
+        "PARAMETER NAME": "ALPHA-ENDOSULFAN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78456",
+        "PARAMETER NAME": "HALOMETHANES, SUM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78463",
+        "PARAMETER NAME": "BORON, SLUDGE, TOTAL DRY WEIGHT (AS B)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78464",
+        "PARAMETER NAME": "SODIUM, SLUDGE, TOT, DRY WEIGHT (AS NA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78465",
+        "PARAMETER NAME": "MOLYBDENUM, SLUDGE, TOT, DRY WT. (AS MO)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78466",
+        "PARAMETER NAME": "BARIUM, SLUDGE, TOT, DRY WEIGHT (AS BA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78467",
+        "PARAMETER NAME": "ZINC, SLUDGE, TOTAL, DRY WEIGHT, (AS ZN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78468",
+        "PARAMETER NAME": "LEAD, SLUDGE, TOTAL, DRY WEIGHT (AS PB)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78469",
+        "PARAMETER NAME": "NICKEL, SLUDGE, TOT, DRY WEIGHT (AS NI)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78470",
+        "PARAMETER NAME": "NITROGEN, SLUDGE, TOT, DRY WT. (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78471",
+        "PARAMETER NAME": "MERCURY, SLUDGE, TOT DRY WEIGHT (AS HG)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78472",
+        "PARAMETER NAME": "POTASSIUM, SLUDGE, TOT, DRY WT. (AS K)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78473",
+        "PARAMETER NAME": "CHROMIUM, SLUDGE, TOT, DRY WT. (AS CR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78474",
+        "PARAMETER NAME": "IRON, SLUDGE, TOTAL, DRY WEIGHT (AS FE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78475",
+        "PARAMETER NAME": "COPPER, SLUDGE, TOT, DRY WEIGHT (AS CU)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78476",
+        "PARAMETER NAME": "CADMIUM, SLUDGE, TOT DRY WEIGHT (AS CD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78477",
+        "PARAMETER NAME": "SOLIDS, SLUDGE, TOT, DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78478",
+        "PARAMETER NAME": "PHOSPHORUS, SLUDGE, TOT, DRY WT. (AS P)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78480",
+        "PARAMETER NAME": "EFFLUENT DILUTION RATIO",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78531",
+        "PARAMETER NAME": "BUTYL ACETATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78656",
+        "PARAMETER NAME": "NITROSODIPHENYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78720",
+        "PARAMETER NAME": "FLOW, RECYCLED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78721",
+        "PARAMETER NAME": "PHTHALATES, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78723",
+        "PARAMETER NAME": "AMINES, ORGANIC TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78724",
+        "PARAMETER NAME": "4-NITRO-N-METHYLPHTHALIMIDE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78730",
+        "PARAMETER NAME": "N-NITROSO COMPOUNDS, VOLATILE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78731",
+        "PARAMETER NAME": "N-NITROSO COMPOUNDS, VOLATILE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78732",
+        "PARAMETER NAME": "VOLATILE COMPOUNDS, (GC/MS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78733",
+        "PARAMETER NAME": "VOLATILE FRACTION ORGANICS (EPA 624)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78734",
+        "PARAMETER NAME": "TRIBUTHYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78736",
+        "PARAMETER NAME": "ISOPROPYLBIPHENYL, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78738",
+        "PARAMETER NAME": "CHLORINATION FREQ.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78739",
+        "PARAMETER NAME": "CHLORINATION DURATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78870",
+        "PARAMETER NAME": "4-NITROANILINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78885",
+        "PARAMETER NAME": "DIQUAT, DIBROMIDE (REGLONE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78886",
+        "PARAMETER NAME": "DICHLOROPROPENE,2,3-,1-",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78886",
+        "PARAMETER NAME": "FLOW, PROCESS WASTEWATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78887",
+        "PARAMETER NAME": "PRECIPITATION, MONTHLY ACCUMULATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78888",
+        "PARAMETER NAME": "2,4-TOLUENEDIAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78889",
+        "PARAMETER NAME": "2,5-TOLUENEDIAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78920",
+        "PARAMETER NAME": "GASOLINE, REGULAR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78932",
+        "PARAMETER NAME": "FLOW, AUGMENTED WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "78939",
+        "PARAMETER NAME": "FUEL, DIESEL, #1",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79146",
+        "PARAMETER NAME": "4-METHYLPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79531",
+        "PARAMETER NAME": "3,4 BENZOFLUORAN- THENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79539",
+        "PARAMETER NAME": "ACETONE IN WASTE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79617",
+        "PARAMETER NAME": "ENDOSULFAN, ALPHA, IN WASTE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79618",
+        "PARAMETER NAME": "ENDOSULFAN, BETA, INWASTE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79732",
+        "PARAMETER NAME": "2,4,5, TP(SILVEX)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79743",
+        "PARAMETER NAME": "GLYPHOSATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79745",
+        "PARAMETER NAME": "NEPTUNE BLUE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79746",
+        "PARAMETER NAME": "ETHYLHEXYL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79750",
+        "PARAMETER NAME": "DECACHLOROBIPHENYL (DCBP) TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79751",
+        "PARAMETER NAME": "GUANIDINE NITRATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79753",
+        "PARAMETER NAME": "NITROGUANIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79776",
+        "PARAMETER NAME": "OIL/GREASE CALCULATED LIMIT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79777",
+        "PARAMETER NAME": "PRECIPITATION VOLUME",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79778",
+        "PARAMETER NAME": "CRESOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79780",
+        "PARAMETER NAME": "TETRAMETHYLBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79817",
+        "PARAMETER NAME": "3,4 DICHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79818",
+        "PARAMETER NAME": "FLUSILAZOLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79819",
+        "PARAMETER NAME": "POLYCHLORINATED BIPHENYLS (PCB) PG/L",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "79855",
+        "PARAMETER NAME": "ADSORBABLE ORGANIC HALIDES (AOX)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80029",
+        "PARAMETER NAME": "ALPHA GROSS RADIOACTIVITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80045",
+        "PARAMETER NAME": "ALPHA, GROSS PARTICLE ACTIVITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80082",
+        "PARAMETER NAME": "BOD, CARBONACEOUS 05 DAY, 20C",
+        "SIMPLE NAME": "CBOD, (5-DAY)20C"
+    },
+    {
+        "CODE": "80087",
+        "PARAMETER NAME": "BOD, CARBONACEOUS 20 DAY, 20C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80089",
+        "PARAMETER NAME": "BOD, CARBONACEOUS 40 DAY, 20C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80091",
+        "PARAMETER NAME": "BOD, CARB-5 DAY, 20 DEG C, PERCENT REMVL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80092",
+        "PARAMETER NAME": "DECHLORINATION REAGENT, GEN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80093",
+        "PARAMETER NAME": "DILUTION FACTOR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80103",
+        "PARAMETER NAME": "CHEMICAL OXYGEN DEMAND (COD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80107",
+        "PARAMETER NAME": "SULFUR, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80108",
+        "PARAMETER NAME": "CHEMICAL OXYGEN DEMAND (COD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80114",
+        "PARAMETER NAME": "COLOR, CONCENTRATION AT WAVELENGTH",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80115",
+        "PARAMETER NAME": "CHEM. OXYGEN DEMAND (COD) % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80126",
+        "PARAMETER NAME": "BOD, CARBONACEOUS 5 DAY,5 C",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80273",
+        "PARAMETER NAME": "BOD CARBONACEOUS, 25-DAY (20 DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80276",
+        "PARAMETER NAME": "BOD, CARBONACEOUS, 28-DAY (20 DEG.C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80279",
+        "PARAMETER NAME": "CBOD5 / NH3-N",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80357",
+        "PARAMETER NAME": "CHROMIUM, TRIVALENT DISSOLVED, AS CR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80358",
+        "PARAMETER NAME": "BOD, CARBONACEOUS, PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80991",
+        "PARAMETER NAME": "SLUDGE WASTE FROM SECONDARY CLARIFIERS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80996",
+        "PARAMETER NAME": "SPRAY IRRIGATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80998",
+        "PARAMETER NAME": "BYPASS OF TREATMENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "80999",
+        "PARAMETER NAME": "BYPASS OF TREATMENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81009",
+        "PARAMETER NAME": "SOLIDS, VOLATILE SUSPENDED, % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81010",
+        "PARAMETER NAME": "BOD, 5-DAY PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81011",
+        "PARAMETER NAME": "SOLIDS, SUSPENDED PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81012",
+        "PARAMETER NAME": "PHOSPHORUS, TOTAL PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81014",
+        "PARAMETER NAME": "SLUDGE RETURN RATE, % OF PLANT FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81015",
+        "PARAMETER NAME": "RESIDUE, TOTAL FILTERABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81017",
+        "PARAMETER NAME": "CHEMICAL OXYGEN DEMAND (COD)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81020",
+        "PARAMETER NAME": "SULFATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81021",
+        "PARAMETER NAME": "RESIDUE, TOTAL VOLATILE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81208",
+        "PARAMETER NAME": "CYANIDE FREE NOT AMENABLE TO CHLORIN.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81281",
+        "PARAMETER NAME": "KEPONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81283",
+        "PARAMETER NAME": "BENZENEHEXACHLORIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81284",
+        "PARAMETER NAME": "TRIFLURALIN (C13H16F3N3O4)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81286",
+        "PARAMETER NAME": "BOD, CARBONACEOUS (5-DAY, 20 DEG C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81287",
+        "PARAMETER NAME": "DI-NITRO BUTYL PHENOL (DNBP)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81288",
+        "PARAMETER NAME": "BHC, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81293",
+        "PARAMETER NAME": "COUMAPHOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81299",
+        "PARAMETER NAME": "ORGANICS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81302",
+        "PARAMETER NAME": "DIBENZOFURAN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81308",
+        "PARAMETER NAME": "HYDROCARBONS NITRATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81313",
+        "PARAMETER NAME": "HYDRAZINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81314",
+        "PARAMETER NAME": "1,1-DIMETHYL- HYDRAZINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81318",
+        "PARAMETER NAME": "FERROCYANIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81324",
+        "PARAMETER NAME": "CAMPHOR WHOLE WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81328",
+        "PARAMETER NAME": "DICHLOROETHENE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81332",
+        "PARAMETER NAME": "N,N-DIMETHYL ACETAMIDE WHOLE WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81360",
+        "PARAMETER NAME": "TRINITROTOLUENE (TNT), TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81362",
+        "PARAMETER NAME": "RDX, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81364",
+        "PARAMETER NAME": "RDX, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81375",
+        "PARAMETER NAME": "HALOGENATED ORGANICS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81380",
+        "PARAMETER NAME": "VELOCITY OF DIS- CHARGE, METERS/SEC.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81381",
+        "PARAMETER NAME": "DURATION OF DISCHARGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81382",
+        "PARAMETER NAME": "NITROGENOUS OXYGEN DEMAND (20-DAY, 20C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81383",
+        "PARAMETER NAME": "CARBONACEOUS OXYGEN DEMAND, % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81384",
+        "PARAMETER NAME": "NITROGENOUS OXYGEN DEMAND, % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81385",
+        "PARAMETER NAME": "BOD, 20-DAY, PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81386",
+        "PARAMETER NAME": "HEAT (SUMMER) (PER HOUR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81387",
+        "PARAMETER NAME": "HEAT (WINTER) (PER HOUR)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81389",
+        "PARAMETER NAME": "TEMP. DIFFERENCE, SUMMER (DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81390",
+        "PARAMETER NAME": "TEMP. DIFFERENCE, WINTER (DEG. C)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81392",
+        "PARAMETER NAME": "GALLONS DISTILLED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81393",
+        "PARAMETER NAME": "NITROGEN, TOTAL KJELDAHL, % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81395",
+        "PARAMETER NAME": "STORM WATER FLOW",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81396",
+        "PARAMETER NAME": "ORGANIC COMPOUNDS, CHLOROFORM EXTRACT.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81398",
+        "PARAMETER NAME": "HEAT (SUMMER) (PER DAY)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81399",
+        "PARAMETER NAME": "HEAT (WINTER) (PER DAY)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81400",
+        "PARAMETER NAME": "CHLORINE USAGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81401",
+        "PARAMETER NAME": "ENTERIC VIRUSES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81402",
+        "PARAMETER NAME": "SETTLEABLE SOLIDS PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81403",
+        "PARAMETER NAME": "CHLORPYRIFOS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81405",
+        "PARAMETER NAME": "CARBOFURAN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81512",
+        "PARAMETER NAME": "BENZOTHIAZOLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81513",
+        "PARAMETER NAME": "BIPHENYL, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81520",
+        "PARAMETER NAME": "CHLOROBUTADIENE (CHLOROPRENE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81524",
+        "PARAMETER NAME": "DICHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81533",
+        "PARAMETER NAME": "DINITROTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81547",
+        "PARAMETER NAME": "METHYL NAPHTHALENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81549",
+        "PARAMETER NAME": "TETRACHLOROETHANE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81551",
+        "PARAMETER NAME": "XYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81552",
+        "PARAMETER NAME": "ACETONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81553",
+        "PARAMETER NAME": "ACETOPHENONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81555",
+        "PARAMETER NAME": "BROMO BENZENE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81557",
+        "PARAMETER NAME": "1-BROMO-2-CHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81559",
+        "PARAMETER NAME": "BROMODICHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81561",
+        "PARAMETER NAME": "BUTHDIENE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81570",
+        "PARAMETER NAME": "CYCLOHEXANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81574",
+        "PARAMETER NAME": "1,2-CIS-DICHLORO-ETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81577",
+        "PARAMETER NAME": "DIISOPROPYL ETHER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81579",
+        "PARAMETER NAME": "DIMETHYL SULFIDE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81580",
+        "PARAMETER NAME": "DIMETHYL DISULFIDE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81582",
+        "PARAMETER NAME": "DIOXANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81585",
+        "PARAMETER NAME": "ETHYL ACETATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81588",
+        "PARAMETER NAME": "FURFURAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81590",
+        "PARAMETER NAME": "HEXANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81595",
+        "PARAMETER NAME": "METHYL ETHYL KETONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81596",
+        "PARAMETER NAME": "METHYL ISOBUTYL KETONE (MIBK)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81597",
+        "PARAMETER NAME": "METHYL METHACRYLATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81607",
+        "PARAMETER NAME": "TETRAHYDROFURAN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81611",
+        "PARAMETER NAME": "TRICHLOROTRIFLUORO- ETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81621",
+        "PARAMETER NAME": "SULFIDE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81646",
+        "PARAMETER NAME": "SURFACTANTS (LINEAR ALKYLATE SULFONATE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81649",
+        "PARAMETER NAME": "PCB-1262",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81651",
+        "PARAMETER NAME": "BISPHENOL-A",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81676",
+        "PARAMETER NAME": "ORTHO-CRESOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81678",
+        "PARAMETER NAME": "DEHYDROABIETIC ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81679",
+        "PARAMETER NAME": "EPICHLOROHYDRIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81685",
+        "PARAMETER NAME": "2-ETHOXYETHANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81686",
+        "PARAMETER NAME": "CIS 1,2 DICHLOROETHEN, WHOLE WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81688",
+        "PARAMETER NAME": "ETHYLENE GLYCOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81708",
+        "PARAMETER NAME": "STYRENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81710",
+        "PARAMETER NAME": "META-XYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81711",
+        "PARAMETER NAME": "ORTHO-XYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81758",
+        "PARAMETER NAME": "ETHOPROP",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81769",
+        "PARAMETER NAME": "2,4-D ISOBUTYL ESTERIN SEDIMENTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81795",
+        "PARAMETER NAME": "SULFUR DIOXIDE TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81799",
+        "PARAMETER NAME": "FLOW, AVERAGE STREAM PER COMPOSITE SAMPL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81848",
+        "PARAMETER NAME": "TRICHLOROPHENOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81853",
+        "PARAMETER NAME": "TRICHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "81888",
+        "PARAMETER NAME": "DISULFOTON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82035",
+        "PARAMETER NAME": "SODIUM, TOTAL (AS NA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82052",
+        "PARAMETER NAME": "BANVEL (DICAMBA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82057",
+        "PARAMETER NAME": "BORON, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82064",
+        "PARAMETER NAME": "FERROUS SULFATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82067",
+        "PARAMETER NAME": "RHODIUM, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82077",
+        "PARAMETER NAME": "RADIATION, GROSS ALPHA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82079",
+        "PARAMETER NAME": "TURBIDITY, LAB, NTU",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82080",
+        "PARAMETER NAME": "TRIHALOMETHANE, TOT.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82088",
+        "PARAMETER NAME": "TERBUFOS (COUNTER) TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82126",
+        "PARAMETER NAME": "TRITIUM, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82153",
+        "PARAMETER NAME": "DICHLORODIBROMOMETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82180",
+        "PARAMETER NAME": "HYDROCARBONS, PETROLEUM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82190",
+        "PARAMETER NAME": "TRIETHANOLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82191",
+        "PARAMETER NAME": "2-NAPHTHYLAMINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82195",
+        "PARAMETER NAME": "THIOCARBAMATES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82196",
+        "PARAMETER NAME": "HEXAMETHYL- PHOSPHORAMINE(HMPA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82203",
+        "PARAMETER NAME": "HMX-1,3,5,7-TETRAZOCINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82204",
+        "PARAMETER NAME": "2-ACETYL AMINO- FLOURCENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82205",
+        "PARAMETER NAME": "SPECIFIC GRAVITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82207",
+        "PARAMETER NAME": "DIFFERENTIAL PRESSURE ANNULAR WELL HEAD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82209",
+        "PARAMETER NAME": "CHLORIDES & SULFATES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82210",
+        "PARAMETER NAME": "OXYGEN DEMAND FIRST STAGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82211",
+        "PARAMETER NAME": "MERCAPTANS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82212",
+        "PARAMETER NAME": "RESIN ACIDS, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82213",
+        "PARAMETER NAME": "DIMETHYL BENZIDINE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82214",
+        "PARAMETER NAME": "PH CHANGE (RANGE)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82216",
+        "PARAMETER NAME": "SPRAY IRRIGATION- APPLICATION RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82218",
+        "PARAMETER NAME": "IRON, TOTAL PERCENT REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82219",
+        "PARAMETER NAME": "SLUDGE SETTLEABILITY 30 MINUTE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82220",
+        "PARAMETER NAME": "FLOW, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82221",
+        "PARAMETER NAME": "FLOW VOLUME DAILY- INTO A WELL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82223",
+        "PARAMETER NAME": "AREA OF DISPOSAL- USED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82225",
+        "PARAMETER NAME": "DICHLOROBUTENE- (ISOMERS)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82228",
+        "PARAMETER NAME": "EDTA AMMONIATED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82229",
+        "PARAMETER NAME": "FREE ACID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82230",
+        "PARAMETER NAME": "AMMONIA & AMMONIUM- TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82234",
+        "PARAMETER NAME": "TEMPERATURE RATE OF CHANGE DEG. C/HR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82239",
+        "PARAMETER NAME": "MICROSCOPIC ANALYSIS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82241",
+        "PARAMETER NAME": "NITROBODIES, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82287",
+        "PARAMETER NAME": "SOLIDS, TOTAL NON- VOLATILE, NON-FIXED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82289",
+        "PARAMETER NAME": "LAGOON OBSERVATION VISUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82290",
+        "PARAMETER NAME": "CALCIUM HYPO WEIGHT/APPLICATION GRAMS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82293",
+        "PARAMETER NAME": "4-NITRO-M-CRESOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82294",
+        "PARAMETER NAME": "NITROGEN, AMMONIA, SLUDGE, TOT DRY WGT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82295",
+        "PARAMETER NAME": "CHLORIDE, DISSOLVED (AS CL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82295",
+        "PARAMETER NAME": "DISSOLVED CHLORIDE (AS CL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82303",
+        "PARAMETER NAME": "RADON, TOTAL IN WATER",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82318",
+        "PARAMETER NAME": "TANTALUM, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82358",
+        "PARAMETER NAME": "PROPRANE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82375",
+        "PARAMETER NAME": "SOLIDS ACCUMULATION RATE TOT DRY WEIGHT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82385",
+        "PARAMETER NAME": "NITROGEN OXIDES (AS N)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82387",
+        "PARAMETER NAME": "FIRST STAGE OXYGEN DEMAND, % REMOVAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82388",
+        "PARAMETER NAME": "1,4-DIOXANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82389",
+        "PARAMETER NAME": "SODIUM SULFATE, TOTAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82391",
+        "PARAMETER NAME": "WATER TREATMENT ADDITIVES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82392",
+        "PARAMETER NAME": "ALUMINUM SULFATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82394",
+        "PARAMETER NAME": "HARDNESS, TOT CALC. (CA,MG,FE) AS CAC03",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82416",
+        "PARAMETER NAME": "PARAQUAT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82516",
+        "PARAMETER NAME": "TRICHLOROBENZENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82550",
+        "PARAMETER NAME": "OSMOTIC PRESSURE, TOTAL, UNF WHL WTR",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82558",
+        "PARAMETER NAME": "VOLATILE HALOGENATED HYDROCARBONS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82559",
+        "PARAMETER NAME": "VOLATILE HYDROCARBONS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82560",
+        "PARAMETER NAME": "TOTAL PESTICIDES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82561",
+        "PARAMETER NAME": "CONDUCTIVITY, NET",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82563",
+        "PARAMETER NAME": "3-TRIFLUOROMETHYL-4-NPNL (TFM)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82564",
+        "PARAMETER NAME": "LAGOON FREEBOARD",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82576",
+        "PARAMETER NAME": "DAILY EXCURSION TIME(MIN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82577",
+        "PARAMETER NAME": "MONTH EXCURSION TIME(MIN)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82581",
+        "PARAMETER NAME": "PH RANGE EXCURSIONS, > 60 MINUTES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82582",
+        "PARAMETER NAME": "PH RANGE EXCURSIONS, MONTHLY TOTAL ACCUM",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82583",
+        "PARAMETER NAME": "PH, IN SOIL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82590",
+        "PARAMETER NAME": "DRILLING FLUIDS, TOXICITY",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82592",
+        "PARAMETER NAME": "DRILLING FLUIDS, DISCHARGE RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82594",
+        "PARAMETER NAME": "DRILLING FLUIDS, VOLUME",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82616",
+        "PARAMETER NAME": "AZINPHOS-METHYL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82629",
+        "PARAMETER NAME": "BACKWASH CYCLES, TOTAL NUMBER OF",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82630",
+        "PARAMETER NAME": "METRIBUZIN (SENCOR), WATER, DISSOLVED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82635",
+        "PARAMETER NAME": "VOLATILE HALOGENATED ORGANICS (VHO), TOT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82637",
+        "PARAMETER NAME": "BENZENE, 1-CHLORO-4-(TRIFLUOROMETHYL)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82698",
+        "PARAMETER NAME": "TCDD EQUIVALENTS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "82699",
+        "PARAMETER NAME": "ENDRIN + ENDRIN ALDEHYDE (SUM)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84066",
+        "PARAMETER NAME": "OIL AND GREASE VISUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84085",
+        "PARAMETER NAME": "VOLATILE ORGANICS DETECTED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84103",
+        "PARAMETER NAME": "DIOXIN LABORATORY - ALPHA CODE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84107",
+        "PARAMETER NAME": "AREA INSPECTION VISUAL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84108",
+        "PARAMETER NAME": "DRAIN FIELD INSP ASSESSMENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84130",
+        "PARAMETER NAME": "OUTFALL OBSERVATION,VISUAL, Y/N RESPONSE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84165",
+        "PARAMETER NAME": "DISCHARGE EVENT OBSERVATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "84370",
+        "PARAMETER NAME": "VECTOR ATTRACTION REDUCTION ALTERN USED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85001",
+        "PARAMETER NAME": "SUSPENDED SOLIDS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85002",
+        "PARAMETER NAME": "BIOCHEMICAL OXYGEN DEMAND-5",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85327",
+        "PARAMETER NAME": "WATER LEVEL AT SAMP.COLLECTION TIME",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85539",
+        "PARAMETER NAME": "REPORT DUE (YRMODA)",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85662",
+        "PARAMETER NAME": "FLOW, DIRECTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85663",
+        "PARAMETER NAME": "VELOCITY OF INTAKE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85667",
+        "PARAMETER NAME": "1,1-DICHLORO-1- FLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85668",
+        "PARAMETER NAME": "1-CHLORO-1,1- DIFLUOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85669",
+        "PARAMETER NAME": "1,1,1-TRIFLUORO- ETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85772",
+        "PARAMETER NAME": "STICKWATER DISCHARGE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85777",
+        "PARAMETER NAME": "RAW MATERIALS PROCESSED",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85778",
+        "PARAMETER NAME": "PULP PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85779",
+        "PARAMETER NAME": "PAPER PRODUCTION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85789",
+        "PARAMETER NAME": "2,2-DIMETHYL-2,3-DI-HYDRO-7-BENZOFURANOL",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85790",
+        "PARAMETER NAME": "CHLORINE, ADDITION RATE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85795",
+        "PARAMETER NAME": "XYLENE, META & PARA IN COMBINATION",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85808",
+        "PARAMETER NAME": "P-ETHYLTOLUENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85810",
+        "PARAMETER NAME": "TRANS-1,2-DICHLORO- ETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85811",
+        "PARAMETER NAME": "CHLOROETHANE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85812",
+        "PARAMETER NAME": "1-HYDROXY-ETHYLIDENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85813",
+        "PARAMETER NAME": "TOLYTRIAZOLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85814",
+        "PARAMETER NAME": "TETRACHLOROETHYLENE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85815",
+        "PARAMETER NAME": "ALDICARB SULFOXIDE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85816",
+        "PARAMETER NAME": "ALDICARB SULFONE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85817",
+        "PARAMETER NAME": "GROSS BETA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85820",
+        "PARAMETER NAME": "MONITORING WELL LEVEL FROM THE SURFACE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "85824",
+        "PARAMETER NAME": "ALUMINUM, ACID SOLUABLE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA3A",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA3B",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": "ACUTETOX, LC5048HRCERIODAPHNIA"
+    },
+    {
+        "CODE": "TAA3C",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA3D",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU D. PULEX",
+        "SIMPLE NAME": "ACUTETOX., LC5048HRD.PULEX"
+    },
+    {
+        "CODE": "TAA3E",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA6A",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA6B",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA6C",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAA6F",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU SALVEL. SALMONID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAB3B",
+        "PARAMETER NAME": "LC50 STAT 96HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAB3E",
+        "PARAMETER NAME": "LC50 STAT 96HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAB6B",
+        "PARAMETER NAME": "LC50 STAT 96HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAB6C",
+        "PARAMETER NAME": "LC50 STAT 96HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAB6H",
+        "PARAMETER NAME": "LC50 STAT 96HR ACU CYPRINELLA LEEDSI",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAE3B",
+        "PARAMETER NAME": "LC50 STAT 24HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAE6C",
+        "PARAMETER NAME": "LC50 STAT 24HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM3B",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM3C",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM3D",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM3E",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM6B",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM6C",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAM6E",
+        "PARAMETER NAME": "LC50 STAT 48HR ACU LEPOMIS MACROCHIRUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN3B",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN3C",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN3E",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN6A",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACU CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN6B",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN6C",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAN6H",
+        "PARAMETER NAME": "LC50 STATRE 96HR ACUCYPRINELLA LEEDSI",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAW3B",
+        "PARAMETER NAME": "LC50 FLTH 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAX3B",
+        "PARAMETER NAME": "LC50 FLTH 96HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAX3E",
+        "PARAMETER NAME": "LC50 FLTH 96HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAX6B",
+        "PARAMETER NAME": "LC50 FLTH 96HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TAX6E",
+        "PARAMETER NAME": "LC50 FLTH 96HR ACU LEPOMIS MACROCHI",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TB1CA",
+        "PARAMETER NAME": "LC50 FTHD MINNOW FL-THRU DEFN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBC1A",
+        "PARAMETER NAME": "NOEL STAT 4DAY CHR SELEN. CAPR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBC3A",
+        "PARAMETER NAME": "NOEL STAT 4DAY CHR ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBD1A",
+        "PARAMETER NAME": "NOEL STAT 7DAY CHR SELEN. CAPR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBD3A",
+        "PARAMETER NAME": "NOEL STAT 7DAY CHR ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBD3B",
+        "PARAMETER NAME": "NOEL STAT 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBD3E",
+        "PARAMETER NAME": "NOEL STAT 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBD6B",
+        "PARAMETER NAME": "NOEL STAT 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBD6C",
+        "PARAMETER NAME": "NOEL STAT 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBH3A",
+        "PARAMETER NAME": "NOEL STAT 1HR FERT. CHR ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBO1A",
+        "PARAMETER NAME": "NOEL STATRE 4DAY CHR SELEN. CAPR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBO1C",
+        "PARAMETER NAME": "NOEL STATRE 4DAY CHR CHAMPIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBO3B",
+        "PARAMETER NAME": "NOEL STATRE 4DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBO6C",
+        "PARAMETER NAME": "NOEL STATRE 4DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP1A",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR SELEN. CAPR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP1C",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR CHAMPIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP3A",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP3B",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP3D",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP3E",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP6A",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP6B",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBP6C",
+        "PARAMETER NAME": "NOEL STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBQ6F",
+        "PARAMETER NAME": "NOEL STATRE 10DAY CHR SALVEL. SALMONID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBY1C",
+        "PARAMETER NAME": "NOEL FLTH 4DAY CHR CHAMPIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBZ3B",
+        "PARAMETER NAME": "NOEL FLTH 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBZ6A",
+        "PARAMETER NAME": "NOEL FLTH 7DAY CHR CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TBZ6C",
+        "PARAMETER NAME": "NOEL FLTH 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCE6C",
+        "PARAMETER NAME": "%EFFECT STAT 24HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCM3B",
+        "PARAMETER NAME": "%EFFECT STATRE 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCM3C",
+        "PARAMETER NAME": "%EFFECT STATRE 48HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCM6C",
+        "PARAMETER NAME": "%EFFECT STATRE 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCN3C",
+        "PARAMETER NAME": "%EFFECT STATRE 96HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCN3E",
+        "PARAMETER NAME": "%EFFECT STATRE 96HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCN6A",
+        "PARAMETER NAME": "%EFFECT STATRE 96HR ACU CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCN6B",
+        "PARAMETER NAME": "%EFFECT STATRE 96HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCN6C",
+        "PARAMETER NAME": "%EFFECT STATRE 96HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCP1A",
+        "PARAMETER NAME": "%EFFECT STATRE 7DAY CHR SELEN. CAPR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCP3B",
+        "PARAMETER NAME": "%EFFECT STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCP3C",
+        "PARAMETER NAME": "%EFFECT STATRE 7DAY CHR D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCP3E",
+        "PARAMETER NAME": "%EFFECT STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCP6B",
+        "PARAMETER NAME": "%EFFECT STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TCP6C",
+        "PARAMETER NAME": "%EFFECT STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDA3B",
+        "PARAMETER NAME": "NOAEL STAT 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDA3D",
+        "PARAMETER NAME": "NOAEL STAT 48HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDA3E",
+        "PARAMETER NAME": "NOAEL STAT 48HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDA6B",
+        "PARAMETER NAME": "NOAEL STAT 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDA6C",
+        "PARAMETER NAME": "NOAEL STAT 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDA6F",
+        "PARAMETER NAME": "NOAEL STAT 48HR ACU SALVEL. SALMONID",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM3A",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM3B",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM3C",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM3D",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM3E",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM6A",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM6B",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDM6C",
+        "PARAMETER NAME": "NOAEL STATRE 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDN3E",
+        "PARAMETER NAME": "NOAEL STATRE 96HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDN6B",
+        "PARAMETER NAME": "NOAEL STATRE 96HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDN6C",
+        "PARAMETER NAME": "NOAEL STATRE 96HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDP1A",
+        "PARAMETER NAME": "NOAEL STATRE 7DAY CHR SELEN. CAPR.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDP3A",
+        "PARAMETER NAME": "NOAEL STATRE 7DAY CHR ARBACIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDP3B",
+        "PARAMETER NAME": "NOAEL STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDP6B",
+        "PARAMETER NAME": "NOAEL STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TDP6C",
+        "PARAMETER NAME": "NOAEL STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEM3C",
+        "PARAMETER NAME": "LF P/F STATRE 48HR ACU DAPHNIA MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEM3D",
+        "PARAMETER NAME": "LF P/F STATRE 48HR ACU DAPHNIA PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEM3E",
+        "PARAMETER NAME": "LF P/F STATRE 48HR ACU MYSIDOPIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEM6A",
+        "PARAMETER NAME": "LF P/F STATRE 48HR ACU CYPRINODON VARIEGA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEM6B",
+        "PARAMETER NAME": "LF P/F STATRE 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEM6C",
+        "PARAMETER NAME": "LF P/F STATRE 48HR ACU PIMEPHALES PROMELA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEO3E",
+        "PARAMETER NAME": "LF P/F STATRE 7DAY CHR MYSIDOPSIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEO6A",
+        "PARAMETER NAME": "LF P/F STATRE 7DAY CHR CYPRINODON VARIEGA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEP3B",
+        "PARAMETER NAME": "LF P/F STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TEP6C",
+        "PARAMETER NAME": "LF P/F STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFM3D",
+        "PARAMETER NAME": "HLF P/F STATRE 48HR ACU DAPHNIA PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFM3E",
+        "PARAMETER NAME": "HLF P/F STATRE 48HR ACU MYSIDOPIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFM6A",
+        "PARAMETER NAME": "HLF P/F STATRE 48HR ACU CYPRINODON VARIE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFM6C",
+        "PARAMETER NAME": "HLF P/F STATRE 48HR ACU PIMEPHALES PROME",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFO3E",
+        "PARAMETER NAME": "HLF P/F STATRE 7DAY CHR MYSIDOPSIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFO6A",
+        "PARAMETER NAME": "HLF P/F STATRE 7DAY CHR CYPRINODON VARIE",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFP3B",
+        "PARAMETER NAME": "HLF P/F STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TFP6C",
+        "PARAMETER NAME": "HLF P/F STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGA3B",
+        "PARAMETER NAME": "P/F STAT 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": "ACUTETOX, P/F48HRCERIODAPHNIA"
+    },
+    {
+        "CODE": "TGA3D",
+        "PARAMETER NAME": "P/F STAT 48HR ACU D. PULEX",
+        "SIMPLE NAME": "ACUTETOX, P/F48HRD.PULEX"
+    },
+    {
+        "CODE": "TGA3E",
+        "PARAMETER NAME": "P/F STAT 48HR ACU MYSIDOPSIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGA6C",
+        "PARAMETER NAME": "P/F STAT 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGB6A",
+        "PARAMETER NAME": "P/F STAT 96 HR ACU CYPRINODON VARIEGA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGB6C",
+        "PARAMETER NAME": "P/F STAT 96 HR ACU PIMEPHALES PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGC3D",
+        "PARAMETER NAME": "P/F STAT 4 DAY CHR DAPHNIA PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGC3E",
+        "PARAMETER NAME": "P/F STAT 4 DAY CHR MYSIDOPSIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGC6A",
+        "PARAMETER NAME": "P/F STAT 4 DAY CHR CYPRINODON VARIEGA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGC6C",
+        "PARAMETER NAME": "P/F STAT 4 DAY CHR PIMEPHALES PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGE3D",
+        "PARAMETER NAME": "P/F STAT 24HR ACU DAPHNIA PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGE3E",
+        "PARAMETER NAME": "P/F STAT 24HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": "ACUTETOX, P/F24HRMYSID.BAHIA"
+    },
+    {
+        "CODE": "TGE6A",
+        "PARAMETER NAME": "P/F STAT 24HR CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGE6C",
+        "PARAMETER NAME": "P/F STAT 24HR ACU PIMEPHALES",
+        "SIMPLE NAME": "ACUTETOX, P/F24HRPIMEPHALES"
+    },
+    {
+        "CODE": "TGM3B",
+        "PARAMETER NAME": "P/F STATRE 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGN3B",
+        "PARAMETER NAME": "P/F STATRE 96HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGN6C",
+        "PARAMETER NAME": "P/F STATRE 96HR ACU PIMEPHALES PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGP3B",
+        "PARAMETER NAME": "P/F STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": "CHRONICTOX, P/F7DAYCERIODAPHNIA"
+    },
+    {
+        "CODE": "TGP3E",
+        "PARAMETER NAME": "P/F STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TGP6C",
+        "PARAMETER NAME": "P/F STATRE 7DAY CHR PIMEPHALES PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "THP3B",
+        "PARAMETER NAME": "CHV STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": "CHRONICTOX, CHV7DAYCERIODAPHNIA"
+    },
+    {
+        "CODE": "THP6C",
+        "PARAMETER NAME": "CHV STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIB6E",
+        "PARAMETER NAME": "LC50/PF STAT 96HR ACU LEPOMIS MACROCHIRU",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIE3B",
+        "PARAMETER NAME": "LC50/PF STAT 24HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIE3D",
+        "PARAMETER NAME": "LC50/PF STAT 24HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIE3E",
+        "PARAMETER NAME": "LC50/PF STAT 24HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIE6A",
+        "PARAMETER NAME": "LC50/PF STAT 24HR ACU CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIE6B",
+        "PARAMETER NAME": "LC50/PF STAT 24HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIE6C",
+        "PARAMETER NAME": "LC50/PF STAT 24HR ACU PIMPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIM3D",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TIM6C",
+        "PARAMETER NAME": "LC50 STATRE 48HR ACU P. PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TJA3B",
+        "PARAMETER NAME": "% MORTALITY STAT 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TJE3B",
+        "PARAMETER NAME": "%MORTALITY STAT 24HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TJE6C",
+        "PARAMETER NAME": "%MORTALITY STAT 24HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TKF3L",
+        "PARAMETER NAME": "TU STAT 1HR CHR PURPLE SEA URCHIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TKF3M",
+        "PARAMETER NAME": "TU STAT 1HR CHR GREEN SEA URCHIN",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TKF3N",
+        "PARAMETER NAME": "TU STAT 1HR CHR DENDRASTER EXCENT",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TKG3O",
+        "PARAMETER NAME": "TU STAT 48HR CHR CRASSOSTREA GIGAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TKG3P",
+        "PARAMETER NAME": "TU STAT 48HR CHR MYTILUS EDULIS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TLP3B",
+        "PARAMETER NAME": "LF P/F LETH STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TLP3E",
+        "PARAMETER NAME": "LF P/F LETH STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TLP6A",
+        "PARAMETER NAME": "LF P/F LETH STATRE 7DAY CHR CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TLP6B",
+        "PARAMETER NAME": "LF P/F LETH STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TLP6C",
+        "PARAMETER NAME": "LF P/F LETH STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TME3B",
+        "PARAMETER NAME": "CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TME6C",
+        "PARAMETER NAME": "PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TMM3B",
+        "PARAMETER NAME": "LC10 STATRE 48HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TMM3C",
+        "PARAMETER NAME": "LC10 STATRE 48HR ACU D. MAGNA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TMN6C",
+        "PARAMETER NAME": "LC10 STATRE 96HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TNB3B",
+        "PARAMETER NAME": "LC20 STAT 96HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TNB3E",
+        "PARAMETER NAME": "LC20 STAT 96HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TNB6B",
+        "PARAMETER NAME": "LC20 STAT 96HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TNB6H",
+        "PARAMETER NAME": "LC20 STAT 96HR ACU CYPRINELLA LEEDSI",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TNN3B",
+        "PARAMETER NAME": "LC20 STATRE 96HR ACU CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TNN6H",
+        "PARAMETER NAME": "LC20 STATRE 96HR ACUCYPRINELLA LEEDSI",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOM3D",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 48HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOM3E",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 48HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOM6B",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOM6C",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOP3B",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOP3E",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOP6A",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 7DAY CHR CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOP6B",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TOP6C",
+        "PARAMETER NAME": "NOEL LETHAL STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TPP3B",
+        "PARAMETER NAME": "NOEL SUB-LTH STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TPP3E",
+        "PARAMETER NAME": "NOEL SUB-LETH STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TPP6A",
+        "PARAMETER NAME": "NOEL SUB-LETH STATRE 7DAY CHR CYPRINODON",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TPP6B",
+        "PARAMETER NAME": "NOEL SUB-LETH STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TPP6C",
+        "PARAMETER NAME": "NOEL SUB-LTH STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQM3D",
+        "PARAMETER NAME": "COEF OF VAR STATRE 48HR ACU D. PULEX",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQM3E",
+        "PARAMETER NAME": "COEF OF VAR STATRE 48HR ACU MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQM6B",
+        "PARAMETER NAME": "COEF OF VAR STATRE 48HR ACU MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQM6C",
+        "PARAMETER NAME": "COEF OF VAR STATRE 48HR ACU PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQP3B",
+        "PARAMETER NAME": "COEF OF VAR STATRE 7DAY CHR CERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQP3E",
+        "PARAMETER NAME": "COEF OF VAR STATRE 7DAY CHR MYSID. BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQP6B",
+        "PARAMETER NAME": "COEF OF VAR STATRE 7DAY CHR MENIDIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TQP6C",
+        "PARAMETER NAME": "COEF OF VAR STATRE 7DAY CHR PIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TRN6I",
+        "PARAMETER NAME": "%SURV STATRE 96HR ONCORHYNCHUS MYKISS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TRN6K",
+        "PARAMETER NAME": "%SURV STATRE 96HR GASTEROST. ACULEATUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TRP3B",
+        "PARAMETER NAME": "IC25 STATRE 7DAY CHRCERIODAPHNIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TRP6C",
+        "PARAMETER NAME": "IC25 STATRE 7DAY CHRPIMEPHALES",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TRX6I",
+        "PARAMETER NAME": "%SURV FLTH 96HR ONCORHYNCHUS MYKISS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TRX6K",
+        "PARAMETER NAME": "%SURV FLTH 96HR GASTEROST. ACULEATUS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TSB6C",
+        "PARAMETER NAME": "TUA STAT 96HR ACU PIMPHALES PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TSN3B",
+        "PARAMETER NAME": "TUA STATRE 96HR ACU CERIODAPHNIA DUBIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TSN6C",
+        "PARAMETER NAME": "TUA STATRE 96HR ACU PIMPHALES PROMELAS",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TTK1D",
+        "PARAMETER NAME": "TUC STAT 48HR CHR MACROCYSTIS PYRIFERA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TTL3N",
+        "PARAMETER NAME": "TUC FLTH 48HR CHR DENDRASTER EXCENTRI.",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TTP3E",
+        "PARAMETER NAME": "TUC STATRE 7DAY CHR MYSIDOPSIS BAHIA",
+        "SIMPLE NAME": null
+    },
+    {
+        "CODE": "TTP6J",
+        "PARAMETER NAME": "TUC STATRE 7DAY CHR MENIDIA BERYLLINA",
+        "SIMPLE NAME": null
+    }
+]
